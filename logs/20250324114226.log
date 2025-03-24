@@ -1,0 +1,1299 @@
+2025-03-24 11:42:26,501 [INFO] Program started
+2025-03-24 11:42:26,502 [INFO] Experiment Trials List: {1: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}, 2: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}, 3: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}, 4: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}, 5: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}, 6: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}, 7: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}, 8: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}}
+2025-03-24 11:42:26,502 [INFO] Set experiment constants
+2025-03-24 11:42:26,702 [INFO] Set display screen
+2025-03-24 11:42:26,702 [INFO] Data writer open at file: /home/pi/Documents/masters-Electronics/data/20250324.csv
+2025-03-24 11:42:26,702 [INFO] Set data writer
+2025-03-24 11:42:26,705 [INFO] Set GPIO pins
+2025-03-24 11:42:26,705 [INFO] Set keybinds
+2025-03-24 11:42:26,705 [INFO] Program paused
+2025-03-24 11:42:26,706 [INFO] Set up of obstacle positioning
+2025-03-24 11:42:26,707 [INFO] Setup complete
+2025-03-24 11:42:26,707 [INFO] Waiting for obstacle setup to be completed
+2025-03-24 11:44:27,264 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:27,283 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:27,665 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:27,800 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:28,200 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:28,262 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:36,086 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:36,783 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:36,845 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:36,884 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:42,253 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:42,772 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:42,793 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:42,813 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:42,872 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:42,912 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,051 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,112 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,172 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,190 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,251 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,353 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,392 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,492 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:43,523 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,524 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,589 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,669 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,724 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,749 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,925 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,948 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,968 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:44,988 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,007 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,087 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,108 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,129 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,148 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,188 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,225 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,268 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,287 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,325 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,408 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,425 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,447 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,488 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,587 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,625 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,672 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,683 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,725 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,826 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,926 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:45,966 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,026 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,103 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,126 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,226 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,290 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,326 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,385 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,427 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,527 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,563 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,585 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,705 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,804 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:46,827 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:47,028 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:47,081 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:47,104 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:47,684 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:48,682 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:48,922 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:49,879 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:49,898 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:49,918 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:58,457 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:44:58,597 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:44:58,705 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:44:58,868 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:44:58,949 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:44:59,161 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:44:59,492 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:44:59,901 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:45:00,781 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:45:00,931 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:45:01,198 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:45:01,352 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:45:01,396 [WARNING] Gate right crossed in trial state None while paused
+2025-03-24 11:45:01,678 [WARNING] Gate right crossed in trial state None while paused
+2025-03-24 11:45:01,771 [WARNING] Gate right crossed in trial state None while paused
+2025-03-24 11:45:01,927 [WARNING] Gate right crossed in trial state None while paused
+2025-03-24 11:45:02,068 [WARNING] Gate right crossed in trial state None while paused
+2025-03-24 11:45:02,189 [WARNING] Gate right crossed in trial state None while paused
+2025-03-24 11:45:02,679 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:45:17,463 [INFO] Changed obstacle to None, None
+2025-03-24 11:45:17,464 [INFO] Program resumed
+2025-03-24 11:45:17,465 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:45:23,983 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742816723.9833236, 'trial_id': 3}
+2025-03-24 11:45:24,161 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742816724.1611757, 'trial_id': 3}
+2025-03-24 11:45:24,162 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:45:24,481 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742816724.4811285, 'trial_id': 3}
+2025-03-24 11:45:24,576 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742816724.5765314, 'trial_id': 3}
+2025-03-24 11:45:24,577 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:45:24,599 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742816724.5989828, 'trial_id': 4}
+2025-03-24 11:50:40,515 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817040.5154104, 'trial_id': 4}
+2025-03-24 11:50:40,687 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817040.6867824, 'trial_id': 4}
+2025-03-24 11:50:40,687 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:50:40,704 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817040.704178, 'trial_id': 4}
+2025-03-24 11:51:59,487 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817119.4873543, 'trial_id': 4}
+2025-03-24 11:51:59,488 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:51:59,625 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817119.6249177, 'trial_id': 4}
+2025-03-24 11:53:25,820 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817205.8202128, 'trial_id': 4}
+2025-03-24 11:53:54,620 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817234.620556, 'trial_id': 4}
+2025-03-24 11:53:54,621 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:53:54,649 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817234.64889, 'trial_id': 3}
+2025-03-24 11:53:54,786 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817234.7865775, 'trial_id': 3}
+2025-03-24 11:53:54,787 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:54:02,661 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817242.6607032, 'trial_id': 4}
+2025-03-24 11:54:02,685 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817242.684671, 'trial_id': 4}
+2025-03-24 11:54:02,801 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817242.8012722, 'trial_id': 4}
+2025-03-24 11:54:02,802 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:55:26,525 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817326.52484, 'trial_id': 4}
+2025-03-24 11:55:26,565 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817326.5649045, 'trial_id': 4}
+2025-03-24 11:55:51,338 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817351.3378167, 'trial_id': 4}
+2025-03-24 11:55:51,338 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:55:51,496 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817351.4958477, 'trial_id': 3}
+2025-03-24 11:55:51,522 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817351.522263, 'trial_id': 3}
+2025-03-24 11:56:39,567 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817399.5668263, 'trial_id': 3}
+2025-03-24 11:56:39,567 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 11:56:39,591 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817399.5911446, 'trial_id': 3}
+2025-03-24 12:00:31,632 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742817631.63165, 'trial_id': 3}
+2025-03-24 12:00:37,365 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817637.36481, 'trial_id': 3}
+2025-03-24 12:00:37,366 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:00:37,384 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742817637.3844082, 'trial_id': 3}
+2025-03-24 12:08:17,191 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818097.191269, 'trial_id': 3}
+2025-03-24 12:08:17,343 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818097.343355, 'trial_id': 3}
+2025-03-24 12:08:17,344 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:08:17,365 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818097.3651583, 'trial_id': 4}
+2025-03-24 12:12:42,370 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818362.3697264, 'trial_id': 4}
+2025-03-24 12:13:00,315 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818380.3150418, 'trial_id': 4}
+2025-03-24 12:13:00,316 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:13:01,871 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818381.870938, 'trial_id': 4}
+2025-03-24 12:16:14,786 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818574.7864027, 'trial_id': 4}
+2025-03-24 12:16:14,809 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818574.8097174, 'trial_id': 4}
+2025-03-24 12:16:14,830 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818574.8305898, 'trial_id': 4}
+2025-03-24 12:16:14,934 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818574.9344459, 'trial_id': 4}
+2025-03-24 12:16:14,935 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:16:46,468 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818606.4682817, 'trial_id': 4}
+2025-03-24 12:16:46,483 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818606.482948, 'trial_id': 4}
+2025-03-24 12:16:51,406 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818611.4063234, 'trial_id': 4}
+2025-03-24 12:16:51,552 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818611.5520568, 'trial_id': 4}
+2025-03-24 12:16:51,552 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:17:09,315 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818629.3157318, 'trial_id': 4}
+2025-03-24 12:17:09,342 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818629.342394, 'trial_id': 4}
+2025-03-24 12:17:09,461 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818629.4618244, 'trial_id': 4}
+2025-03-24 12:17:09,462 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:17:09,486 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818629.4864933, 'trial_id': 4}
+2025-03-24 12:17:32,846 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818652.8461125, 'trial_id': 4}
+2025-03-24 12:17:33,115 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818653.1156144, 'trial_id': 4}
+2025-03-24 12:17:34,465 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818654.4653392, 'trial_id': 4}
+2025-03-24 12:17:34,466 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:17:34,505 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818654.5055747, 'trial_id': 4}
+2025-03-24 12:17:34,516 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818654.516598, 'trial_id': 4}
+2025-03-24 12:18:25,811 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818705.811331, 'trial_id': 4}
+2025-03-24 12:18:25,812 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:18:25,936 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818705.9365084, 'trial_id': 3}
+2025-03-24 12:18:26,171 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818706.170978, 'trial_id': 3}
+2025-03-24 12:18:26,171 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:18:30,740 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818710.7402923, 'trial_id': 4}
+2025-03-24 12:18:30,875 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818710.8756092, 'trial_id': 4}
+2025-03-24 12:18:30,876 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:18:32,972 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818712.9723046, 'trial_id': 4}
+2025-03-24 12:18:32,996 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818712.9958787, 'trial_id': 4}
+2025-03-24 12:18:33,084 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818713.084733, 'trial_id': 4}
+2025-03-24 12:18:33,085 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:18:36,824 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818716.8241138, 'trial_id': 4}
+2025-03-24 12:18:36,925 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818716.9256194, 'trial_id': 4}
+2025-03-24 12:18:37,658 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818717.6585858, 'trial_id': 4}
+2025-03-24 12:18:37,689 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818717.6891508, 'trial_id': 4}
+2025-03-24 12:18:38,076 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818718.0759754, 'trial_id': 4}
+2025-03-24 12:18:38,076 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:18:50,681 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818730.6814132, 'trial_id': 3}
+2025-03-24 12:18:50,832 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818730.8319495, 'trial_id': 3}
+2025-03-24 12:18:50,832 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:19:54,835 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818794.8352773, 'trial_id': 4}
+2025-03-24 12:19:54,909 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818794.909055, 'trial_id': 4}
+2025-03-24 12:20:24,577 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818824.5774581, 'trial_id': 4}
+2025-03-24 12:20:25,297 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742818825.297364, 'trial_id': 4}
+2025-03-24 12:20:25,694 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818825.694129, 'trial_id': 4}
+2025-03-24 12:20:25,694 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:21:12,114 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818872.113927, 'trial_id': 3}
+2025-03-24 12:21:14,773 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818874.7735062, 'trial_id': 3}
+2025-03-24 12:21:14,774 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:21:14,794 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742818874.7944663, 'trial_id': 3}
+2025-03-24 12:21:14,943 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818874.943469, 'trial_id': 3}
+2025-03-24 12:21:14,943 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-03-24 12:21:15,202 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742818875.2022333, 'trial_id': 4}
+2025-03-24 12:22:06,762 [INFO] Program paused
+2025-03-24 12:23:17,623 [INFO] Changed obstacle to black, black
+2025-03-24 12:23:17,624 [INFO] Program resumed
+2025-03-24 12:23:17,624 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:24:10,976 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819050.9763737, 'trial_id': 6}
+2025-03-24 12:24:10,994 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819050.994759, 'trial_id': 6}
+2025-03-24 12:24:11,120 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819051.1200373, 'trial_id': 6}
+2025-03-24 12:24:11,120 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:26:37,760 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742819197.7600574, 'trial_id': 5}
+2025-03-24 12:26:38,462 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819198.4618633, 'trial_id': 5}
+2025-03-24 12:26:38,462 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:26:38,849 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742819198.8492062, 'trial_id': 6}
+2025-03-24 12:26:38,971 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819198.9715087, 'trial_id': 6}
+2025-03-24 12:26:38,972 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:26:38,986 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819198.9863973, 'trial_id': 6}
+2025-03-24 12:33:57,526 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819637.5262377, 'trial_id': 6}
+2025-03-24 12:33:57,527 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:33:58,157 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819638.1576757, 'trial_id': 6}
+2025-03-24 12:33:58,176 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819638.1762116, 'trial_id': 6}
+2025-03-24 12:33:58,189 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819638.1897352, 'trial_id': 6}
+2025-03-24 12:34:46,147 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819686.1474967, 'trial_id': 6}
+2025-03-24 12:34:46,148 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:34:49,872 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742819689.8691626, 'trial_id': 5}
+2025-03-24 12:34:54,293 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819694.292721, 'trial_id': 5}
+2025-03-24 12:34:54,293 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:34:54,365 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819694.3646722, 'trial_id': 5}
+2025-03-24 12:34:54,867 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819694.8676288, 'trial_id': 5}
+2025-03-24 12:34:54,884 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819694.8841472, 'trial_id': 5}
+2025-03-24 12:34:55,046 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819695.04593, 'trial_id': 5}
+2025-03-24 12:34:55,046 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:34:55,107 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819695.1070256, 'trial_id': 5}
+2025-03-24 12:35:03,906 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819703.906579, 'trial_id': 5}
+2025-03-24 12:35:04,029 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819704.0287693, 'trial_id': 5}
+2025-03-24 12:35:04,029 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:36:30,529 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819790.529511, 'trial_id': 5}
+2025-03-24 12:36:31,013 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819791.013529, 'trial_id': 5}
+2025-03-24 12:36:31,014 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:37:32,176 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742819852.1761675, 'trial_id': 6}
+2025-03-24 12:37:32,832 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819852.8321843, 'trial_id': 6}
+2025-03-24 12:37:32,833 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:37:32,860 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819852.8603003, 'trial_id': 5}
+2025-03-24 12:38:23,192 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819903.192559, 'trial_id': 5}
+2025-03-24 12:38:23,357 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819903.357008, 'trial_id': 5}
+2025-03-24 12:38:23,357 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:38:23,385 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819903.385033, 'trial_id': 5}
+2025-03-24 12:39:14,416 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819954.415972, 'trial_id': 5}
+2025-03-24 12:39:14,417 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:39:14,438 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819954.4376771, 'trial_id': 6}
+2025-03-24 12:39:14,552 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819954.5517764, 'trial_id': 6}
+2025-03-24 12:39:14,552 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:39:49,241 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819989.2407825, 'trial_id': 6}
+2025-03-24 12:39:50,728 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819990.7285833, 'trial_id': 6}
+2025-03-24 12:39:56,823 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742819996.823353, 'trial_id': 6}
+2025-03-24 12:39:56,993 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819996.9936237, 'trial_id': 6}
+2025-03-24 12:39:56,994 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:39:57,006 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819997.006215, 'trial_id': 6}
+2025-03-24 12:39:57,027 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742819997.027379, 'trial_id': 6}
+2025-03-24 12:40:13,522 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820013.5219684, 'trial_id': 6}
+2025-03-24 12:40:13,547 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820013.547065, 'trial_id': 6}
+2025-03-24 12:40:13,576 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820013.5766878, 'trial_id': 6}
+2025-03-24 12:40:13,724 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820013.7246513, 'trial_id': 6}
+2025-03-24 12:40:13,725 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:40:13,737 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820013.7371583, 'trial_id': 6}
+2025-03-24 12:40:19,930 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820019.9297647, 'trial_id': 6}
+2025-03-24 12:40:25,144 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820025.1436634, 'trial_id': 6}
+2025-03-24 12:40:25,144 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:40:25,201 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820025.2012491, 'trial_id': 6}
+2025-03-24 12:40:50,213 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820050.213232, 'trial_id': 6}
+2025-03-24 12:40:50,214 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:40:50,726 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820050.7260334, 'trial_id': 5}
+2025-03-24 12:40:51,146 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820051.1464415, 'trial_id': 5}
+2025-03-24 12:40:51,147 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:40:51,241 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820051.2416928, 'trial_id': 5}
+2025-03-24 12:40:56,833 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820056.8327115, 'trial_id': 5}
+2025-03-24 12:42:44,858 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820164.8579092, 'trial_id': 5}
+2025-03-24 12:42:44,869 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820164.8688984, 'trial_id': 5}
+2025-03-24 12:42:45,046 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820165.0467207, 'trial_id': 5}
+2025-03-24 12:42:45,047 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:42:45,065 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820165.0650084, 'trial_id': 5}
+2025-03-24 12:43:00,150 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820180.14998, 'trial_id': 5}
+2025-03-24 12:43:00,151 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:43:20,923 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820200.9232266, 'trial_id': 5}
+2025-03-24 12:43:21,643 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820201.643311, 'trial_id': 5}
+2025-03-24 12:43:21,644 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:43:23,674 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820203.673685, 'trial_id': 6}
+2025-03-24 12:43:23,812 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820203.8120978, 'trial_id': 6}
+2025-03-24 12:43:24,034 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820204.0347536, 'trial_id': 6}
+2025-03-24 12:43:24,035 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:43:24,054 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820204.0542579, 'trial_id': 5}
+2025-03-24 12:43:29,199 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820209.1987376, 'trial_id': 5}
+2025-03-24 12:43:29,199 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:43:30,047 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820210.0476518, 'trial_id': 5}
+2025-03-24 12:43:30,083 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820210.0828462, 'trial_id': 5}
+2025-03-24 12:43:30,469 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820210.4693153, 'trial_id': 5}
+2025-03-24 12:43:30,470 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:43:30,483 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820210.4834034, 'trial_id': 6}
+2025-03-24 12:43:30,925 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820210.9248915, 'trial_id': 6}
+2025-03-24 12:43:30,925 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:43:30,956 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820210.9557476, 'trial_id': 6}
+2025-03-24 12:43:30,971 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820210.971277, 'trial_id': 6}
+2025-03-24 12:45:38,801 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820338.8013294, 'trial_id': 6}
+2025-03-24 12:45:38,813 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820338.8130243, 'trial_id': 6}
+2025-03-24 12:45:38,839 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820338.8393943, 'trial_id': 6}
+2025-03-24 12:45:39,065 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820339.0649185, 'trial_id': 6}
+2025-03-24 12:45:39,065 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:45:39,083 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820339.0831616, 'trial_id': 5}
+2025-03-24 12:45:39,290 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820339.2907407, 'trial_id': 5}
+2025-03-24 12:45:39,291 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:48:03,460 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820483.459838, 'trial_id': 5}
+2025-03-24 12:48:03,609 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820483.6093614, 'trial_id': 5}
+2025-03-24 12:48:03,610 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:51:22,185 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820682.1850812, 'trial_id': 5}
+2025-03-24 12:51:22,305 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820682.3051124, 'trial_id': 5}
+2025-03-24 12:51:22,305 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:51:22,335 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820682.33552, 'trial_id': 6}
+2025-03-24 12:51:25,751 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820685.7511737, 'trial_id': 6}
+2025-03-24 12:51:25,752 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:51:25,870 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820685.8697395, 'trial_id': 6}
+2025-03-24 12:51:25,896 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820685.8962038, 'trial_id': 6}
+2025-03-24 12:51:42,863 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820702.8634107, 'trial_id': 6}
+2025-03-24 12:51:42,864 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:51:43,058 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820703.0584166, 'trial_id': 6}
+2025-03-24 12:51:43,093 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820703.0887437, 'trial_id': 6}
+2025-03-24 12:51:44,153 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820704.1526563, 'trial_id': 6}
+2025-03-24 12:51:44,153 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:51:44,182 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820704.1823769, 'trial_id': 6}
+2025-03-24 12:51:44,247 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820704.246818, 'trial_id': 6}
+2025-03-24 12:51:45,321 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820705.3207712, 'trial_id': 6}
+2025-03-24 12:51:45,321 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:51:45,549 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820705.54972, 'trial_id': 6}
+2025-03-24 12:52:02,033 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820722.0333896, 'trial_id': 6}
+2025-03-24 12:52:02,211 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820722.2115343, 'trial_id': 6}
+2025-03-24 12:52:02,212 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:52:04,850 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820724.8502846, 'trial_id': 6}
+2025-03-24 12:52:05,488 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820725.487717, 'trial_id': 6}
+2025-03-24 12:52:06,023 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820726.0232923, 'trial_id': 6}
+2025-03-24 12:52:06,024 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:52:06,653 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820726.6526558, 'trial_id': 5}
+2025-03-24 12:52:06,684 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820726.6847513, 'trial_id': 5}
+2025-03-24 12:52:06,808 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820726.8083532, 'trial_id': 5}
+2025-03-24 12:52:06,809 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:52:06,826 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820726.8258097, 'trial_id': 5}
+2025-03-24 12:53:32,962 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820812.9624846, 'trial_id': 5}
+2025-03-24 12:53:32,963 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:53:33,281 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820813.281477, 'trial_id': 5}
+2025-03-24 12:53:33,670 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742820813.6705344, 'trial_id': 5}
+2025-03-24 12:53:35,518 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820815.5183015, 'trial_id': 5}
+2025-03-24 12:53:35,518 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:53:43,062 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820823.0623956, 'trial_id': 5}
+2025-03-24 12:53:43,112 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820823.1121726, 'trial_id': 5}
+2025-03-24 12:53:43,342 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820823.3421066, 'trial_id': 5}
+2025-03-24 12:53:43,342 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:53:43,360 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820823.360395, 'trial_id': 5}
+2025-03-24 12:53:43,382 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820823.3825972, 'trial_id': 5}
+2025-03-24 12:54:42,142 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820882.1418526, 'trial_id': 5}
+2025-03-24 12:54:43,337 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820883.3370569, 'trial_id': 5}
+2025-03-24 12:54:43,337 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 12:55:01,886 [INFO] Program paused
+2025-03-24 12:55:53,174 [INFO] Changed obstacle to white, black
+2025-03-24 12:55:53,175 [INFO] Program resumed
+2025-03-24 12:55:53,176 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 12:56:23,127 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820983.127472, 'trial_id': 7}
+2025-03-24 12:56:23,152 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742820983.151901, 'trial_id': 7}
+2025-03-24 12:56:23,301 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742820983.3015573, 'trial_id': 7}
+2025-03-24 12:56:23,302 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:00:17,312 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821217.3123617, 'trial_id': 8}
+2025-03-24 13:00:17,341 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821217.3411777, 'trial_id': 8}
+2025-03-24 13:00:17,469 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821217.469604, 'trial_id': 8}
+2025-03-24 13:00:17,470 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:00:42,557 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742821242.557515, 'trial_id': 8}
+2025-03-24 13:00:44,287 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742821244.2876246, 'trial_id': 8}
+2025-03-24 13:00:44,497 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821244.4977815, 'trial_id': 8}
+2025-03-24 13:00:44,498 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:00:44,524 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821244.524036, 'trial_id': 7}
+2025-03-24 13:01:46,652 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821306.652545, 'trial_id': 7}
+2025-03-24 13:01:46,653 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:01:46,672 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821306.6716182, 'trial_id': 7}
+2025-03-24 13:01:46,700 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821306.699689, 'trial_id': 7}
+2025-03-24 13:01:52,549 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821312.5493422, 'trial_id': 7}
+2025-03-24 13:01:52,550 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:01:52,857 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821312.8570726, 'trial_id': 8}
+2025-03-24 13:01:52,894 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821312.8943775, 'trial_id': 8}
+2025-03-24 13:01:52,913 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821312.9134102, 'trial_id': 8}
+2025-03-24 13:04:37,311 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742821477.3108292, 'trial_id': 8}
+2025-03-24 13:04:37,472 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742821477.4717464, 'trial_id': 8}
+2025-03-24 13:04:38,031 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821478.0315285, 'trial_id': 8}
+2025-03-24 13:04:38,032 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:04:38,068 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821478.0675757, 'trial_id': 8}
+2025-03-24 13:05:50,525 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821550.5245998, 'trial_id': 8}
+2025-03-24 13:05:50,562 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821550.5625508, 'trial_id': 8}
+2025-03-24 13:05:50,676 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821550.6757905, 'trial_id': 8}
+2025-03-24 13:05:50,676 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:05:50,704 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821550.7044034, 'trial_id': 7}
+2025-03-24 13:06:09,694 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821569.693816, 'trial_id': 7}
+2025-03-24 13:06:09,694 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:06:09,865 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821569.8655841, 'trial_id': 8}
+2025-03-24 13:06:10,196 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821570.1961155, 'trial_id': 8}
+2025-03-24 13:06:10,196 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:06:10,340 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821570.3404164, 'trial_id': 8}
+2025-03-24 13:06:10,364 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821570.3639436, 'trial_id': 8}
+2025-03-24 13:06:31,769 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821591.7694468, 'trial_id': 8}
+2025-03-24 13:07:11,240 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742821631.240143, 'trial_id': 8}
+2025-03-24 13:07:12,573 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821632.5714724, 'trial_id': 8}
+2025-03-24 13:07:12,574 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:12:35,227 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821955.2271826, 'trial_id': 7}
+2025-03-24 13:12:35,250 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742821955.2500727, 'trial_id': 7}
+2025-03-24 13:12:35,373 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821955.3729153, 'trial_id': 7}
+2025-03-24 13:12:35,373 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:12:35,393 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821955.3926446, 'trial_id': 8}
+2025-03-24 13:12:35,402 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742821955.402595, 'trial_id': 8}
+2025-03-24 13:20:15,103 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742822415.1030912, 'trial_id': 8}
+2025-03-24 13:20:16,068 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742822416.068261, 'trial_id': 8}
+2025-03-24 13:20:16,747 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822416.7476895, 'trial_id': 8}
+2025-03-24 13:20:16,748 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:20:17,916 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822417.9159265, 'trial_id': 8}
+2025-03-24 13:20:17,926 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822417.9265037, 'trial_id': 8}
+2025-03-24 13:20:17,961 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822417.9616666, 'trial_id': 8}
+2025-03-24 13:20:18,093 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822418.0934944, 'trial_id': 8}
+2025-03-24 13:20:18,093 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:20:18,104 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822418.104396, 'trial_id': 7}
+2025-03-24 13:20:18,122 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822418.1227834, 'trial_id': 7}
+2025-03-24 13:21:15,380 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822475.3804634, 'trial_id': 7}
+2025-03-24 13:21:15,394 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822475.393994, 'trial_id': 7}
+2025-03-24 13:21:15,523 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822475.5228252, 'trial_id': 7}
+2025-03-24 13:21:15,523 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:21:15,550 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822475.550379, 'trial_id': 7}
+2025-03-24 13:21:17,176 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822477.175873, 'trial_id': 7}
+2025-03-24 13:21:17,176 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:21:17,333 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822477.3337185, 'trial_id': 7}
+2025-03-24 13:21:25,725 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742822485.7247455, 'trial_id': 7}
+2025-03-24 13:21:26,999 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742822486.999181, 'trial_id': 7}
+2025-03-24 13:21:31,666 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822491.6660547, 'trial_id': 7}
+2025-03-24 13:21:31,666 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:21:31,679 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822491.679367, 'trial_id': 8}
+2025-03-24 13:21:31,791 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822491.7913964, 'trial_id': 8}
+2025-03-24 13:21:31,792 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:23:48,061 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822628.0606663, 'trial_id': 8}
+2025-03-24 13:25:11,453 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822711.453025, 'trial_id': 8}
+2025-03-24 13:25:11,454 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:25:12,183 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822712.1834803, 'trial_id': 8}
+2025-03-24 13:25:12,217 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822712.2176967, 'trial_id': 8}
+2025-03-24 13:27:23,026 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822843.026173, 'trial_id': 8}
+2025-03-24 13:27:23,027 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:27:23,054 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742822843.0543847, 'trial_id': 8}
+2025-03-24 13:27:23,169 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822843.1687284, 'trial_id': 8}
+2025-03-24 13:27:23,169 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 13:27:23,189 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742822843.1894968, 'trial_id': 7}
+2025-03-24 13:28:42,789 [INFO] Program paused
+2025-03-24 13:29:21,075 [INFO] Changed obstacle to black, white
+2025-03-24 13:29:21,076 [INFO] Program resumed
+2025-03-24 13:29:21,077 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:30:33,125 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742823033.124637, 'trial_id': 5}
+2025-03-24 13:30:33,319 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823033.3189394, 'trial_id': 5}
+2025-03-24 13:30:33,319 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:31:56,266 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823116.2659085, 'trial_id': 6}
+2025-03-24 13:31:57,329 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823117.3294106, 'trial_id': 6}
+2025-03-24 13:31:57,330 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:33:19,585 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742823199.585412, 'trial_id': 5}
+2025-03-24 13:33:21,017 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742823201.0173852, 'trial_id': 5}
+2025-03-24 13:33:21,385 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823201.3848023, 'trial_id': 5}
+2025-03-24 13:33:21,423 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823201.4228716, 'trial_id': 5}
+2025-03-24 13:33:21,614 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823201.6144855, 'trial_id': 5}
+2025-03-24 13:33:21,615 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:33:21,647 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823201.6467426, 'trial_id': 5}
+2025-03-24 13:33:38,858 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823218.8581831, 'trial_id': 5}
+2025-03-24 13:33:38,879 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823218.878693, 'trial_id': 5}
+2025-03-24 13:33:39,000 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823218.9998972, 'trial_id': 5}
+2025-03-24 13:33:39,000 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:35:00,756 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823300.7558026, 'trial_id': 6}
+2025-03-24 13:35:00,873 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823300.873651, 'trial_id': 6}
+2025-03-24 13:35:00,874 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:35:00,893 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823300.8933907, 'trial_id': 5}
+2025-03-24 13:35:00,906 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823300.9060864, 'trial_id': 5}
+2025-03-24 13:35:03,961 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823303.9608524, 'trial_id': 5}
+2025-03-24 13:35:03,961 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:35:04,162 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823304.1621833, 'trial_id': 6}
+2025-03-24 13:35:04,176 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823304.1768203, 'trial_id': 6}
+2025-03-24 13:35:04,193 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823304.1939266, 'trial_id': 6}
+2025-03-24 13:35:04,213 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823304.2132607, 'trial_id': 6}
+2025-03-24 13:35:05,029 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823305.0293367, 'trial_id': 6}
+2025-03-24 13:35:56,414 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823356.414639, 'trial_id': 6}
+2025-03-24 13:35:56,415 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:35:56,534 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823356.5337167, 'trial_id': 5}
+2025-03-24 13:35:56,562 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823356.5621157, 'trial_id': 5}
+2025-03-24 13:37:37,338 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823457.3382182, 'trial_id': 5}
+2025-03-24 13:37:41,660 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742823461.659773, 'trial_id': 5}
+2025-03-24 13:37:47,255 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823467.2554872, 'trial_id': 5}
+2025-03-24 13:37:47,374 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823467.3738568, 'trial_id': 5}
+2025-03-24 13:37:47,446 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823467.4462051, 'trial_id': 5}
+2025-03-24 13:37:48,607 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823468.607158, 'trial_id': 5}
+2025-03-24 13:37:49,612 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823469.612421, 'trial_id': 5}
+2025-03-24 13:38:00,599 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823480.5988429, 'trial_id': 5}
+2025-03-24 13:38:02,820 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742823482.8205082, 'trial_id': 5}
+2025-03-24 13:38:04,000 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823483.9997149, 'trial_id': 5}
+2025-03-24 13:38:04,000 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:38:04,941 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823484.9407759, 'trial_id': 5}
+2025-03-24 13:38:42,975 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823522.9750328, 'trial_id': 5}
+2025-03-24 13:38:42,976 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:38:47,241 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823527.2406075, 'trial_id': 6}
+2025-03-24 13:38:47,329 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823527.328886, 'trial_id': 6}
+2025-03-24 13:38:49,286 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823529.285916, 'trial_id': 6}
+2025-03-24 13:40:25,545 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823625.5447516, 'trial_id': 6}
+2025-03-24 13:40:25,545 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:40:32,504 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823632.5040126, 'trial_id': 6}
+2025-03-24 13:40:32,526 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823632.52627, 'trial_id': 6}
+2025-03-24 13:40:32,699 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823632.6388521, 'trial_id': 6}
+2025-03-24 13:40:32,700 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:40:32,701 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823632.701248, 'trial_id': 6}
+2025-03-24 13:40:33,234 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742823633.2339385, 'trial_id': 6}
+2025-03-24 13:40:36,047 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823636.0469623, 'trial_id': 6}
+2025-03-24 13:40:36,047 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:41:05,491 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742823665.4913926, 'trial_id': 6}
+2025-03-24 13:41:15,203 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823675.2032824, 'trial_id': 6}
+2025-03-24 13:41:15,204 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:41:17,425 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742823677.4252656, 'trial_id': 6}
+2025-03-24 13:41:17,544 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823677.544277, 'trial_id': 6}
+2025-03-24 13:41:17,545 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:41:17,568 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742823677.5678413, 'trial_id': 5}
+2025-03-24 13:47:06,256 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824026.2557821, 'trial_id': 5}
+2025-03-24 13:47:14,478 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742824034.478394, 'trial_id': 5}
+2025-03-24 13:47:14,479 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:47:14,992 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824034.9926052, 'trial_id': 6}
+2025-03-24 13:47:15,022 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824035.0221975, 'trial_id': 6}
+2025-03-24 13:47:20,439 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824040.4391031, 'trial_id': 6}
+2025-03-24 13:47:20,439 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:50:51,787 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824251.7867756, 'trial_id': 5}
+2025-03-24 13:50:51,817 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824251.817376, 'trial_id': 5}
+2025-03-24 13:50:51,873 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824251.8728049, 'trial_id': 5}
+2025-03-24 13:50:52,018 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824252.01876, 'trial_id': 5}
+2025-03-24 13:50:52,019 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:50:52,034 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824252.0337982, 'trial_id': 5}
+2025-03-24 13:50:52,398 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824252.398476, 'trial_id': 5}
+2025-03-24 13:50:52,399 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:50:52,421 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824252.4212754, 'trial_id': 5}
+2025-03-24 13:50:52,538 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824252.5379589, 'trial_id': 5}
+2025-03-24 13:50:52,538 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:51:23,031 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824283.030769, 'trial_id': 5}
+2025-03-24 13:51:23,057 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824283.0573406, 'trial_id': 5}
+2025-03-24 13:51:23,083 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824283.0828536, 'trial_id': 5}
+2025-03-24 13:51:47,028 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824307.0281034, 'trial_id': 5}
+2025-03-24 13:51:47,029 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:51:47,056 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824307.0557463, 'trial_id': 5}
+2025-03-24 13:51:47,073 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824307.0728052, 'trial_id': 5}
+2025-03-24 13:51:47,084 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824307.0845294, 'trial_id': 5}
+2025-03-24 13:54:10,324 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824450.3242724, 'trial_id': 5}
+2025-03-24 13:54:10,462 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824450.4625707, 'trial_id': 5}
+2025-03-24 13:54:10,463 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:54:10,492 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824450.491851, 'trial_id': 5}
+2025-03-24 13:54:10,877 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824450.877058, 'trial_id': 5}
+2025-03-24 13:54:10,877 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:54:11,465 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824451.4648192, 'trial_id': 6}
+2025-03-24 13:55:25,272 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824525.2719765, 'trial_id': 6}
+2025-03-24 13:55:25,273 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:55:25,399 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824525.3990386, 'trial_id': 5}
+2025-03-24 13:55:25,591 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824525.5913897, 'trial_id': 5}
+2025-03-24 13:55:25,591 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:55:25,619 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824525.619008, 'trial_id': 5}
+2025-03-24 13:56:49,183 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824609.1829586, 'trial_id': 5}
+2025-03-24 13:56:49,210 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824609.2096887, 'trial_id': 5}
+2025-03-24 13:57:01,221 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824621.221435, 'trial_id': 5}
+2025-03-24 13:57:01,222 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:57:34,784 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824654.7836921, 'trial_id': 6}
+2025-03-24 13:57:35,320 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824655.3203752, 'trial_id': 6}
+2025-03-24 13:57:35,382 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824655.382435, 'trial_id': 6}
+2025-03-24 13:57:35,382 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:57:35,854 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824655.8541577, 'trial_id': 6}
+2025-03-24 13:57:56,022 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824676.0224278, 'trial_id': 6}
+2025-03-24 13:57:56,023 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:57:56,047 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824676.0476289, 'trial_id': 5}
+2025-03-24 13:58:11,394 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824691.3941398, 'trial_id': 5}
+2025-03-24 13:58:11,652 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824691.652079, 'trial_id': 5}
+2025-03-24 13:58:11,652 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:58:11,675 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824691.6753793, 'trial_id': 6}
+2025-03-24 13:58:11,696 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824691.6963308, 'trial_id': 6}
+2025-03-24 13:59:59,289 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824799.2888162, 'trial_id': 6}
+2025-03-24 13:59:59,289 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:59:59,320 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824799.3198907, 'trial_id': 6}
+2025-03-24 13:59:59,333 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824799.33306, 'trial_id': 6}
+2025-03-24 13:59:59,362 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824799.3623147, 'trial_id': 6}
+2025-03-24 13:59:59,720 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742824799.7202141, 'trial_id': 6}
+2025-03-24 13:59:59,720 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 13:59:59,855 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824799.8552766, 'trial_id': 6}
+2025-03-24 14:03:04,704 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742824984.7039943, 'trial_id': 6}
+2025-03-24 14:03:04,705 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:03:04,852 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824984.8520422, 'trial_id': 6}
+2025-03-24 14:03:04,865 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742824984.8652573, 'trial_id': 6}
+2025-03-24 14:03:24,825 [INFO] Program paused
+2025-03-24 14:03:50,834 [WARNING] Gate left crossed in trial state 6 while paused
+2025-03-24 14:04:06,693 [INFO] Changed obstacle to white, black
+2025-03-24 14:04:06,694 [INFO] Program resumed
+2025-03-24 14:04:06,694 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:04:58,604 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825098.6038897, 'trial_id': 8}
+2025-03-24 14:04:59,537 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825099.5370576, 'trial_id': 8}
+2025-03-24 14:05:00,929 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825100.9291751, 'trial_id': 8}
+2025-03-24 14:05:00,930 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:05:01,148 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825101.148062, 'trial_id': 8}
+2025-03-24 14:05:01,279 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825101.2792144, 'trial_id': 8}
+2025-03-24 14:05:01,292 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825101.2919526, 'trial_id': 8}
+2025-03-24 14:05:01,292 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:05:01,816 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825101.8164036, 'trial_id': 7}
+2025-03-24 14:05:01,950 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825101.9503484, 'trial_id': 7}
+2025-03-24 14:05:22,698 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825122.6978729, 'trial_id': 7}
+2025-03-24 14:05:22,698 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:05:59,045 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825159.044765, 'trial_id': 7}
+2025-03-24 14:05:59,300 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825159.3000185, 'trial_id': 7}
+2025-03-24 14:05:59,645 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825159.645315, 'trial_id': 7}
+2025-03-24 14:05:59,646 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:05:59,665 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825159.6648788, 'trial_id': 7}
+2025-03-24 14:05:59,795 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825159.7950556, 'trial_id': 7}
+2025-03-24 14:05:59,795 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:05:59,831 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825159.8308265, 'trial_id': 8}
+2025-03-24 14:05:59,927 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825159.9272275, 'trial_id': 8}
+2025-03-24 14:05:59,928 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:05:59,943 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825159.9432921, 'trial_id': 8}
+2025-03-24 14:08:34,635 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825314.635592, 'trial_id': 8}
+2025-03-24 14:08:34,636 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:08:36,470 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825316.4698226, 'trial_id': 8}
+2025-03-24 14:08:38,079 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825318.0062447, 'trial_id': 8}
+2025-03-24 14:08:45,393 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825325.3935144, 'trial_id': 8}
+2025-03-24 14:08:45,394 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:08:45,430 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825325.4301548, 'trial_id': 7}
+2025-03-24 14:09:49,559 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825389.558929, 'trial_id': 7}
+2025-03-24 14:09:49,907 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825389.9068565, 'trial_id': 7}
+2025-03-24 14:09:50,415 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825390.415723, 'trial_id': 7}
+2025-03-24 14:09:50,416 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:10:09,959 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825409.9592934, 'trial_id': 8}
+2025-03-24 14:10:11,046 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825411.0458632, 'trial_id': 8}
+2025-03-24 14:10:11,046 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:10:13,317 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825413.3171597, 'trial_id': 8}
+2025-03-24 14:10:17,635 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825417.6321328, 'trial_id': 8}
+2025-03-24 14:10:17,635 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:10:18,738 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825418.7383268, 'trial_id': 7}
+2025-03-24 14:10:19,005 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825419.0052857, 'trial_id': 7}
+2025-03-24 14:10:19,089 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825419.089487, 'trial_id': 7}
+2025-03-24 14:10:20,730 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825420.7298837, 'trial_id': 7}
+2025-03-24 14:10:20,751 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825420.7509985, 'trial_id': 7}
+2025-03-24 14:12:35,109 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825555.1090705, 'trial_id': 7}
+2025-03-24 14:12:35,324 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825555.3240852, 'trial_id': 7}
+2025-03-24 14:12:35,552 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825555.5522163, 'trial_id': 7}
+2025-03-24 14:12:35,552 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:14:57,650 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825697.6505923, 'trial_id': 7}
+2025-03-24 14:14:58,161 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825698.161017, 'trial_id': 7}
+2025-03-24 14:15:02,164 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825702.1638942, 'trial_id': 7}
+2025-03-24 14:15:02,350 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825702.3501558, 'trial_id': 7}
+2025-03-24 14:15:02,464 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825702.4643285, 'trial_id': 7}
+2025-03-24 14:15:34,875 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825734.8756404, 'trial_id': 7}
+2025-03-24 14:15:34,999 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825734.9990604, 'trial_id': 7}
+2025-03-24 14:15:42,934 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825742.9342337, 'trial_id': 7}
+2025-03-24 14:15:42,949 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825742.9488049, 'trial_id': 7}
+2025-03-24 14:15:42,969 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825742.9694078, 'trial_id': 7}
+2025-03-24 14:15:43,099 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825743.0947464, 'trial_id': 7}
+2025-03-24 14:15:43,099 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:15:43,119 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825743.1196096, 'trial_id': 7}
+2025-03-24 14:15:44,667 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825744.6667175, 'trial_id': 7}
+2025-03-24 14:15:44,667 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:15:44,688 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825744.6878104, 'trial_id': 7}
+2025-03-24 14:15:44,789 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825744.7892244, 'trial_id': 7}
+2025-03-24 14:15:44,789 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:15:44,814 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825744.8141696, 'trial_id': 8}
+2025-03-24 14:16:34,632 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825794.6317909, 'trial_id': 8}
+2025-03-24 14:16:38,251 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825798.2512257, 'trial_id': 8}
+2025-03-24 14:16:39,730 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742825799.7301936, 'trial_id': 8}
+2025-03-24 14:16:39,926 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825799.926526, 'trial_id': 8}
+2025-03-24 14:16:39,927 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:16:39,945 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825799.9445806, 'trial_id': 7}
+2025-03-24 14:16:39,963 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825799.963657, 'trial_id': 7}
+2025-03-24 14:16:40,367 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825800.3669872, 'trial_id': 7}
+2025-03-24 14:16:56,775 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825816.774779, 'trial_id': 7}
+2025-03-24 14:17:04,762 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825824.7626038, 'trial_id': 7}
+2025-03-24 14:17:04,813 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825824.8128078, 'trial_id': 7}
+2025-03-24 14:17:12,599 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825832.5987675, 'trial_id': 7}
+2025-03-24 14:17:19,936 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825839.9365864, 'trial_id': 7}
+2025-03-24 14:17:19,964 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825839.9645615, 'trial_id': 7}
+2025-03-24 14:17:26,811 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825846.8111956, 'trial_id': 7}
+2025-03-24 14:17:27,477 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825847.4771013, 'trial_id': 7}
+2025-03-24 14:17:27,494 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825847.494156, 'trial_id': 7}
+2025-03-24 14:19:34,344 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825974.3445778, 'trial_id': 7}
+2025-03-24 14:19:34,431 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742825974.4315443, 'trial_id': 7}
+2025-03-24 14:19:47,500 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825987.500527, 'trial_id': 7}
+2025-03-24 14:19:49,168 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742825989.1680655, 'trial_id': 7}
+2025-03-24 14:22:31,523 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826151.5230734, 'trial_id': 7}
+2025-03-24 14:22:31,826 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826151.826433, 'trial_id': 7}
+2025-03-24 14:22:32,032 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826152.0324726, 'trial_id': 7}
+2025-03-24 14:22:32,261 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826152.2616527, 'trial_id': 7}
+2025-03-24 14:22:32,262 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:22:32,297 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826152.2974849, 'trial_id': 8}
+2025-03-24 14:22:53,724 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742826173.7241669, 'trial_id': 8}
+2025-03-24 14:22:53,725 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:22:58,753 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826178.749574, 'trial_id': 7}
+2025-03-24 14:22:58,775 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826178.7750537, 'trial_id': 7}
+2025-03-24 14:22:58,927 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826178.9268875, 'trial_id': 7}
+2025-03-24 14:22:58,927 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:22:58,948 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826178.9479868, 'trial_id': 8}
+2025-03-24 14:22:59,014 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742826179.0140648, 'trial_id': 8}
+2025-03-24 14:23:00,244 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742826180.2442634, 'trial_id': 8}
+2025-03-24 14:23:19,215 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826199.2155092, 'trial_id': 8}
+2025-03-24 14:23:19,216 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:23:19,236 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826199.2361963, 'trial_id': 8}
+2025-03-24 14:23:19,284 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826199.2837813, 'trial_id': 8}
+2025-03-24 14:23:19,426 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826199.426105, 'trial_id': 8}
+2025-03-24 14:23:19,426 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:23:19,713 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826199.7129118, 'trial_id': 8}
+2025-03-24 14:23:19,732 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826199.7327297, 'trial_id': 8}
+2025-03-24 14:23:19,862 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826199.8626244, 'trial_id': 8}
+2025-03-24 14:23:19,863 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:26:06,374 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826366.373805, 'trial_id': 8}
+2025-03-24 14:26:06,447 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826366.4467392, 'trial_id': 8}
+2025-03-24 14:26:07,445 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826367.445296, 'trial_id': 8}
+2025-03-24 14:26:09,455 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826369.4552765, 'trial_id': 8}
+2025-03-24 14:26:09,456 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:26:09,481 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826369.481469, 'trial_id': 8}
+2025-03-24 14:26:13,922 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826373.9227078, 'trial_id': 8}
+2025-03-24 14:26:13,923 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:26:14,432 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826374.4322221, 'trial_id': 8}
+2025-03-24 14:26:14,463 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826374.4638467, 'trial_id': 8}
+2025-03-24 14:26:30,819 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826390.8192067, 'trial_id': 8}
+2025-03-24 14:26:30,820 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:26:31,123 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826391.1236153, 'trial_id': 8}
+2025-03-24 14:26:31,144 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826391.144503, 'trial_id': 8}
+2025-03-24 14:26:31,160 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826391.160153, 'trial_id': 8}
+2025-03-24 14:26:31,466 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826391.466347, 'trial_id': 8}
+2025-03-24 14:26:31,568 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826391.5682297, 'trial_id': 8}
+2025-03-24 14:26:41,022 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826401.0216587, 'trial_id': 8}
+2025-03-24 14:27:15,124 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742826435.1240435, 'trial_id': 8}
+2025-03-24 14:27:15,125 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:27:41,980 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826461.9797335, 'trial_id': 7}
+2025-03-24 14:27:45,057 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826465.057009, 'trial_id': 7}
+2025-03-24 14:27:46,340 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826466.3397648, 'trial_id': 7}
+2025-03-24 14:27:46,340 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:27:46,375 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826466.375256, 'trial_id': 8}
+2025-03-24 14:28:25,412 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826505.4125044, 'trial_id': 8}
+2025-03-24 14:28:25,413 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:28:25,434 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826505.4345353, 'trial_id': 7}
+2025-03-24 14:28:25,552 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826505.5524914, 'trial_id': 7}
+2025-03-24 14:28:25,553 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:30:04,948 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742826604.9482489, 'trial_id': 8}
+2025-03-24 14:30:06,813 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826606.8131373, 'trial_id': 8}
+2025-03-24 14:30:06,814 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:30:06,880 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826606.880359, 'trial_id': 7}
+2025-03-24 14:31:45,156 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826705.1561873, 'trial_id': 7}
+2025-03-24 14:31:45,178 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826705.1786451, 'trial_id': 7}
+2025-03-24 14:31:45,190 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826705.190611, 'trial_id': 7}
+2025-03-24 14:31:45,313 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826705.313309, 'trial_id': 7}
+2025-03-24 14:31:45,313 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:31:45,339 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826705.339553, 'trial_id': 7}
+2025-03-24 14:32:03,345 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742826723.3446925, 'trial_id': 7}
+2025-03-24 14:33:45,170 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826825.170409, 'trial_id': 7}
+2025-03-24 14:33:45,196 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826825.1961482, 'trial_id': 7}
+2025-03-24 14:33:47,559 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826827.5592902, 'trial_id': 7}
+2025-03-24 14:33:47,560 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:33:48,862 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826828.8622317, 'trial_id': 8}
+2025-03-24 14:33:48,908 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826828.9082346, 'trial_id': 8}
+2025-03-24 14:33:49,341 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742826829.341441, 'trial_id': 8}
+2025-03-24 14:34:29,539 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826869.53864, 'trial_id': 8}
+2025-03-24 14:34:29,539 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-03-24 14:34:29,590 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826869.5898535, 'trial_id': 7}
+2025-03-24 14:34:29,616 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742826869.6165779, 'trial_id': 7}
+2025-03-24 14:35:53,586 [INFO] Program paused
+2025-03-24 14:36:37,508 [INFO] Changed obstacle to black, white
+2025-03-24 14:36:37,508 [INFO] Program resumed
+2025-03-24 14:36:37,509 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:37:18,669 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827038.6696186, 'trial_id': 5}
+2025-03-24 14:37:24,799 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827044.7988653, 'trial_id': 5}
+2025-03-24 14:37:25,157 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827045.1543155, 'trial_id': 5}
+2025-03-24 14:37:31,273 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827051.2727487, 'trial_id': 5}
+2025-03-24 14:37:31,437 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827051.4377513, 'trial_id': 5}
+2025-03-24 14:37:31,576 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827051.5767002, 'trial_id': 5}
+2025-03-24 14:37:31,684 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827051.6841369, 'trial_id': 5}
+2025-03-24 14:37:33,146 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827053.1459115, 'trial_id': 5}
+2025-03-24 14:37:34,263 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827054.2630243, 'trial_id': 5}
+2025-03-24 14:37:35,644 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827055.638318, 'trial_id': 5}
+2025-03-24 14:37:36,036 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827056.0363066, 'trial_id': 5}
+2025-03-24 14:37:36,053 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827056.0530047, 'trial_id': 5}
+2025-03-24 14:37:38,458 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827058.4577184, 'trial_id': 5}
+2025-03-24 14:37:44,175 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827064.175264, 'trial_id': 5}
+2025-03-24 14:37:44,270 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827064.2699134, 'trial_id': 5}
+2025-03-24 14:37:51,507 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827071.507001, 'trial_id': 5}
+2025-03-24 14:38:36,453 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827116.4531317, 'trial_id': 5}
+2025-03-24 14:38:36,469 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827116.4695024, 'trial_id': 5}
+2025-03-24 14:38:36,592 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742827116.5923445, 'trial_id': 5}
+2025-03-24 14:38:36,593 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:38:36,607 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742827116.607611, 'trial_id': 6}
+2025-03-24 14:38:37,436 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827117.4361243, 'trial_id': 6}
+2025-03-24 14:38:37,436 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:38:37,495 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827117.4949894, 'trial_id': 6}
+2025-03-24 14:38:37,685 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742827117.6856875, 'trial_id': 6}
+2025-03-24 14:38:37,686 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:41:32,143 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827292.1429286, 'trial_id': 5}
+2025-03-24 14:41:32,609 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827292.6091466, 'trial_id': 5}
+2025-03-24 14:43:50,070 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827430.070533, 'trial_id': 5}
+2025-03-24 14:43:53,398 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827433.3983085, 'trial_id': 5}
+2025-03-24 14:43:53,920 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827433.9201577, 'trial_id': 5}
+2025-03-24 14:43:54,673 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827434.6733077, 'trial_id': 5}
+2025-03-24 14:43:56,171 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742827436.1716633, 'trial_id': 5}
+2025-03-24 14:45:38,097 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827538.0971284, 'trial_id': 5}
+2025-03-24 14:45:38,526 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827538.5266478, 'trial_id': 5}
+2025-03-24 14:45:40,655 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827540.654824, 'trial_id': 5}
+2025-03-24 14:45:42,653 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827542.6528602, 'trial_id': 5}
+2025-03-24 14:46:29,450 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742827589.449802, 'trial_id': 5}
+2025-03-24 14:46:29,450 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:46:30,130 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827590.1298134, 'trial_id': 6}
+2025-03-24 14:46:30,154 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827590.1545742, 'trial_id': 6}
+2025-03-24 14:46:30,166 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827590.1657968, 'trial_id': 6}
+2025-03-24 14:52:52,247 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742827972.2472582, 'trial_id': 6}
+2025-03-24 14:52:52,248 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:52:52,391 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827972.391225, 'trial_id': 6}
+2025-03-24 14:52:52,409 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742827972.4096904, 'trial_id': 6}
+2025-03-24 14:55:06,024 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828106.0237608, 'trial_id': 6}
+2025-03-24 14:55:06,049 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828106.0492852, 'trial_id': 6}
+2025-03-24 14:55:06,060 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828106.0606117, 'trial_id': 6}
+2025-03-24 14:55:06,178 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828106.1782994, 'trial_id': 6}
+2025-03-24 14:55:06,178 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:55:23,228 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828123.2279012, 'trial_id': 6}
+2025-03-24 14:55:25,349 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828125.3492012, 'trial_id': 6}
+2025-03-24 14:55:25,350 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:55:26,497 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828126.4969115, 'trial_id': 5}
+2025-03-24 14:55:26,511 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828126.5116913, 'trial_id': 5}
+2025-03-24 14:55:38,938 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828138.9381478, 'trial_id': 5}
+2025-03-24 14:55:38,961 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828138.9610991, 'trial_id': 5}
+2025-03-24 14:55:39,081 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828139.0808933, 'trial_id': 5}
+2025-03-24 14:55:39,081 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:55:39,109 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828139.1083834, 'trial_id': 6}
+2025-03-24 14:55:43,250 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742828143.2498755, 'trial_id': 6}
+2025-03-24 14:55:43,567 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742828143.5667696, 'trial_id': 6}
+2025-03-24 14:55:44,002 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828144.0024462, 'trial_id': 6}
+2025-03-24 14:55:44,003 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:55:44,700 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742828144.6999023, 'trial_id': 5}
+2025-03-24 14:55:44,737 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742828144.737649, 'trial_id': 5}
+2025-03-24 14:55:45,177 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828145.1771536, 'trial_id': 5}
+2025-03-24 14:55:45,177 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:55:52,080 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828152.0800025, 'trial_id': 5}
+2025-03-24 14:55:52,507 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828152.5070326, 'trial_id': 5}
+2025-03-24 14:55:52,507 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:56:40,214 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742828200.2146218, 'trial_id': 6}
+2025-03-24 14:57:03,671 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828223.6708288, 'trial_id': 6}
+2025-03-24 14:57:03,671 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:57:03,705 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828223.705206, 'trial_id': 6}
+2025-03-24 14:57:03,823 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828223.8235612, 'trial_id': 6}
+2025-03-24 14:57:03,824 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:57:03,840 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828223.8405125, 'trial_id': 6}
+2025-03-24 14:57:53,379 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828273.3793147, 'trial_id': 6}
+2025-03-24 14:57:53,380 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:57:53,810 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828273.8055737, 'trial_id': 5}
+2025-03-24 14:57:53,833 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828273.833383, 'trial_id': 5}
+2025-03-24 14:57:53,864 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828273.8640234, 'trial_id': 5}
+2025-03-24 14:58:15,971 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828295.971279, 'trial_id': 5}
+2025-03-24 14:58:15,972 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:58:16,054 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828296.054084, 'trial_id': 6}
+2025-03-24 14:58:34,428 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828314.4281273, 'trial_id': 6}
+2025-03-24 14:58:34,429 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:58:37,986 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828317.986005, 'trial_id': 5}
+2025-03-24 14:58:38,211 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828318.2116437, 'trial_id': 5}
+2025-03-24 14:58:38,212 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:58:38,236 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828318.236534, 'trial_id': 6}
+2025-03-24 14:59:04,321 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828344.3211484, 'trial_id': 6}
+2025-03-24 14:59:06,130 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828346.1301935, 'trial_id': 6}
+2025-03-24 14:59:06,131 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:59:06,168 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828346.168269, 'trial_id': 5}
+2025-03-24 14:59:06,373 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828346.3729143, 'trial_id': 5}
+2025-03-24 14:59:06,373 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 14:59:06,383 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828346.3830357, 'trial_id': 6}
+2025-03-24 14:59:17,427 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828357.427238, 'trial_id': 6}
+2025-03-24 14:59:19,183 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828359.183466, 'trial_id': 6}
+2025-03-24 15:00:16,948 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828416.947655, 'trial_id': 6}
+2025-03-24 15:00:16,971 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828416.9716103, 'trial_id': 6}
+2025-03-24 15:00:16,993 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828416.993379, 'trial_id': 6}
+2025-03-24 15:01:36,121 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828496.1211274, 'trial_id': 6}
+2025-03-24 15:01:37,104 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828497.1037304, 'trial_id': 6}
+2025-03-24 15:01:57,505 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828517.5051937, 'trial_id': 6}
+2025-03-24 15:01:57,506 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:01:57,616 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828517.6164675, 'trial_id': 6}
+2025-03-24 15:01:57,642 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828517.6423879, 'trial_id': 6}
+2025-03-24 15:02:38,433 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828558.4328678, 'trial_id': 6}
+2025-03-24 15:02:39,871 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828559.871338, 'trial_id': 6}
+2025-03-24 15:02:39,968 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828559.9679434, 'trial_id': 6}
+2025-03-24 15:02:40,434 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828560.4346797, 'trial_id': 6}
+2025-03-24 15:02:40,485 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828560.4854617, 'trial_id': 6}
+2025-03-24 15:02:40,670 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828560.6704683, 'trial_id': 6}
+2025-03-24 15:02:40,671 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:02:40,690 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828560.6901255, 'trial_id': 6}
+2025-03-24 15:02:41,657 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828561.6574516, 'trial_id': 6}
+2025-03-24 15:02:41,657 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:02:42,395 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742828562.3948574, 'trial_id': 6}
+2025-03-24 15:02:42,443 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742828562.443361, 'trial_id': 6}
+2025-03-24 15:02:42,639 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828562.639814, 'trial_id': 6}
+2025-03-24 15:02:42,640 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:02:43,983 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828563.983812, 'trial_id': 5}
+2025-03-24 15:02:55,804 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828575.8037565, 'trial_id': 5}
+2025-03-24 15:02:55,941 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828575.9411223, 'trial_id': 5}
+2025-03-24 15:02:56,159 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828576.1593206, 'trial_id': 5}
+2025-03-24 15:02:56,565 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828576.5656118, 'trial_id': 5}
+2025-03-24 15:02:56,566 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:05:22,890 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828722.890013, 'trial_id': 6}
+2025-03-24 15:05:23,005 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828723.0055478, 'trial_id': 6}
+2025-03-24 15:05:23,006 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:05:23,033 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828723.0325332, 'trial_id': 6}
+2025-03-24 15:06:47,935 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828807.9354115, 'trial_id': 6}
+2025-03-24 15:06:47,936 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:06:49,554 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828809.5543447, 'trial_id': 5}
+2025-03-24 15:06:49,895 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828809.8949, 'trial_id': 5}
+2025-03-24 15:06:49,967 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828809.9670012, 'trial_id': 5}
+2025-03-24 15:06:55,271 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828815.2707474, 'trial_id': 5}
+2025-03-24 15:06:58,102 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828818.1018372, 'trial_id': 5}
+2025-03-24 15:09:02,656 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742828942.6560721, 'trial_id': 5}
+2025-03-24 15:09:02,657 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:09:02,772 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742828942.7721741, 'trial_id': 6}
+2025-03-24 15:10:52,903 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829052.902924, 'trial_id': 6}
+2025-03-24 15:10:52,925 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829052.924716, 'trial_id': 6}
+2025-03-24 15:10:52,939 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829052.939755, 'trial_id': 6}
+2025-03-24 15:10:53,111 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829053.1109786, 'trial_id': 6}
+2025-03-24 15:10:53,111 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:10:53,152 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829053.1521924, 'trial_id': 6}
+2025-03-24 15:10:53,516 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829053.5158815, 'trial_id': 6}
+2025-03-24 15:10:53,516 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:10:53,526 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829053.5260804, 'trial_id': 6}
+2025-03-24 15:10:53,666 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829053.6667862, 'trial_id': 6}
+2025-03-24 15:10:53,667 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:11:45,414 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742829105.4144006, 'trial_id': 5}
+2025-03-24 15:11:45,432 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742829105.4326177, 'trial_id': 5}
+2025-03-24 15:11:45,549 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829105.5488405, 'trial_id': 5}
+2025-03-24 15:11:45,549 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:11:45,561 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829105.5614066, 'trial_id': 5}
+2025-03-24 15:12:29,732 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829149.732204, 'trial_id': 5}
+2025-03-24 15:12:29,755 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829149.7554626, 'trial_id': 5}
+2025-03-24 15:12:29,884 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829149.8847477, 'trial_id': 5}
+2025-03-24 15:12:29,885 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:12:54,530 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829174.5302706, 'trial_id': 6}
+2025-03-24 15:12:54,566 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829174.5665095, 'trial_id': 6}
+2025-03-24 15:15:17,097 [INFO] Program paused
+2025-03-24 15:15:49,340 [INFO] Changed obstacle to white, black
+2025-03-24 15:15:49,341 [INFO] Program resumed
+2025-03-24 15:15:49,342 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:17:48,360 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829468.360185, 'trial_id': 5}
+2025-03-24 15:17:49,627 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829469.6268396, 'trial_id': 5}
+2025-03-24 15:17:49,627 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:18:08,474 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829488.4739707, 'trial_id': 5}
+2025-03-24 15:18:16,850 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829496.8496883, 'trial_id': 5}
+2025-03-24 15:18:24,864 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829504.8646588, 'trial_id': 5}
+2025-03-24 15:18:25,428 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829505.4280937, 'trial_id': 5}
+2025-03-24 15:18:26,099 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829506.0989957, 'trial_id': 5}
+2025-03-24 15:18:28,624 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829508.623799, 'trial_id': 5}
+2025-03-24 15:18:30,339 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829510.3388393, 'trial_id': 5}
+2025-03-24 15:18:30,339 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:18:30,361 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829510.3613708, 'trial_id': 5}
+2025-03-24 15:18:30,479 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829510.479033, 'trial_id': 5}
+2025-03-24 15:18:30,479 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:18:30,491 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829510.4913533, 'trial_id': 5}
+2025-03-24 15:18:30,629 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829510.6290507, 'trial_id': 5}
+2025-03-24 15:18:33,568 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829513.5678568, 'trial_id': 5}
+2025-03-24 15:18:33,568 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:18:33,584 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829513.5842655, 'trial_id': 5}
+2025-03-24 15:18:33,703 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829513.7032006, 'trial_id': 5}
+2025-03-24 15:18:33,703 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:18:33,732 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829513.7325675, 'trial_id': 6}
+2025-03-24 15:19:53,405 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829593.40525, 'trial_id': 6}
+2025-03-24 15:19:53,406 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:19:53,420 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829593.4201357, 'trial_id': 5}
+2025-03-24 15:19:53,442 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829593.4416802, 'trial_id': 5}
+2025-03-24 15:21:51,539 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742829711.5395195, 'trial_id': 5}
+2025-03-24 15:21:51,540 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:21:52,018 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829712.0181751, 'trial_id': 6}
+2025-03-24 15:21:53,050 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829713.050762, 'trial_id': 6}
+2025-03-24 15:21:53,051 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:21:53,204 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829713.2042809, 'trial_id': 5}
+2025-03-24 15:25:10,290 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742829910.2900279, 'trial_id': 5}
+2025-03-24 15:25:10,711 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829910.7110355, 'trial_id': 5}
+2025-03-24 15:25:10,711 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:25:10,748 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742829910.7477942, 'trial_id': 6}
+2025-03-24 15:27:00,728 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830020.7277136, 'trial_id': 6}
+2025-03-24 15:27:00,776 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830020.7764964, 'trial_id': 6}
+2025-03-24 15:28:36,302 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830116.302379, 'trial_id': 6}
+2025-03-24 15:28:36,543 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830116.5433223, 'trial_id': 6}
+2025-03-24 15:28:37,437 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830117.437584, 'trial_id': 6}
+2025-03-24 15:28:37,438 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:28:37,459 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830117.4588957, 'trial_id': 6}
+2025-03-24 15:29:48,982 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830188.981935, 'trial_id': 6}
+2025-03-24 15:29:48,983 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:29:49,710 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830189.7101426, 'trial_id': 5}
+2025-03-24 15:29:49,721 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830189.7212174, 'trial_id': 5}
+2025-03-24 15:29:49,799 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830189.799695, 'trial_id': 5}
+2025-03-24 15:29:49,800 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:29:50,845 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830190.8452759, 'trial_id': 5}
+2025-03-24 15:29:51,156 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830191.1566522, 'trial_id': 5}
+2025-03-24 15:30:34,012 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830234.0119221, 'trial_id': 5}
+2025-03-24 15:30:34,539 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830234.5391493, 'trial_id': 5}
+2025-03-24 15:32:32,096 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830352.0965452, 'trial_id': 5}
+2025-03-24 15:32:32,121 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830352.1211095, 'trial_id': 5}
+2025-03-24 15:32:32,136 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830352.135977, 'trial_id': 5}
+2025-03-24 15:32:32,264 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830352.264315, 'trial_id': 5}
+2025-03-24 15:32:32,265 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:32:32,288 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830352.2878478, 'trial_id': 5}
+2025-03-24 15:35:55,509 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830555.509619, 'trial_id': 5}
+2025-03-24 15:35:55,546 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830555.5460498, 'trial_id': 5}
+2025-03-24 15:35:55,583 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830555.5834885, 'trial_id': 5}
+2025-03-24 15:35:55,621 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830555.6208832, 'trial_id': 5}
+2025-03-24 15:35:55,662 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830555.6620228, 'trial_id': 5}
+2025-03-24 15:35:57,306 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830557.3057773, 'trial_id': 5}
+2025-03-24 15:35:57,306 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:35:57,563 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830557.5555344, 'trial_id': 5}
+2025-03-24 15:35:57,588 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830557.587762, 'trial_id': 5}
+2025-03-24 15:35:59,812 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830559.8122945, 'trial_id': 5}
+2025-03-24 15:35:59,849 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830559.849687, 'trial_id': 5}
+2025-03-24 15:35:59,888 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830559.8884413, 'trial_id': 5}
+2025-03-24 15:36:02,469 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830562.4690216, 'trial_id': 5}
+2025-03-24 15:36:04,285 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830564.2850342, 'trial_id': 5}
+2025-03-24 15:36:08,545 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830568.5446777, 'trial_id': 5}
+2025-03-24 15:36:08,545 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:36:09,779 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830569.779606, 'trial_id': 5}
+2025-03-24 15:36:10,062 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830570.062461, 'trial_id': 5}
+2025-03-24 15:36:12,895 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830572.8956373, 'trial_id': 5}
+2025-03-24 15:36:12,896 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:36:48,802 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830608.8026197, 'trial_id': 5}
+2025-03-24 15:36:48,825 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830608.8253021, 'trial_id': 5}
+2025-03-24 15:36:48,836 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830608.836712, 'trial_id': 5}
+2025-03-24 15:36:48,918 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830608.9181304, 'trial_id': 5}
+2025-03-24 15:36:48,918 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:36:48,949 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830608.948845, 'trial_id': 6}
+2025-03-24 15:36:48,978 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830608.978056, 'trial_id': 6}
+2025-03-24 15:36:48,994 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830608.9947743, 'trial_id': 6}
+2025-03-24 15:36:51,438 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830611.4376848, 'trial_id': 6}
+2025-03-24 15:36:51,468 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830611.468213, 'trial_id': 6}
+2025-03-24 15:36:59,595 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830619.5950491, 'trial_id': 6}
+2025-03-24 15:36:59,872 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830619.872259, 'trial_id': 6}
+2025-03-24 15:36:59,873 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:38:10,984 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830690.9836192, 'trial_id': 6}
+2025-03-24 15:38:11,020 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830691.01972, 'trial_id': 6}
+2025-03-24 15:38:11,055 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830691.0555983, 'trial_id': 6}
+2025-03-24 15:38:11,095 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830691.0949576, 'trial_id': 6}
+2025-03-24 15:38:11,131 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830691.131212, 'trial_id': 6}
+2025-03-24 15:38:11,166 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830691.1663404, 'trial_id': 6}
+2025-03-24 15:38:55,708 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830735.7081587, 'trial_id': 6}
+2025-03-24 15:38:56,525 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830736.5247965, 'trial_id': 6}
+2025-03-24 15:39:15,042 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830755.041735, 'trial_id': 6}
+2025-03-24 15:39:15,042 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:39:23,553 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830763.5527687, 'trial_id': 6}
+2025-03-24 15:39:23,594 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830763.5945487, 'trial_id': 6}
+2025-03-24 15:39:48,354 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830788.3543105, 'trial_id': 6}
+2025-03-24 15:39:48,393 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830788.3936338, 'trial_id': 6}
+2025-03-24 15:41:07,515 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830867.5152676, 'trial_id': 6}
+2025-03-24 15:41:07,516 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:41:07,557 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830867.5566585, 'trial_id': 6}
+2025-03-24 15:41:07,594 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830867.5946045, 'trial_id': 6}
+2025-03-24 15:41:07,636 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830867.6360362, 'trial_id': 6}
+2025-03-24 15:41:07,654 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830867.6546273, 'trial_id': 6}
+2025-03-24 15:41:07,655 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:41:07,674 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830867.6742861, 'trial_id': 6}
+2025-03-24 15:41:07,677 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830867.677383, 'trial_id': 6}
+2025-03-24 15:41:07,677 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:41:07,717 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830867.7163699, 'trial_id': 6}
+2025-03-24 15:41:07,753 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830867.7530825, 'trial_id': 6}
+2025-03-24 15:41:18,798 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830878.7981083, 'trial_id': 6}
+2025-03-24 15:41:18,811 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830878.811429, 'trial_id': 6}
+2025-03-24 15:41:18,840 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830878.8402936, 'trial_id': 6}
+2025-03-24 15:41:18,964 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830878.9644873, 'trial_id': 6}
+2025-03-24 15:41:18,965 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:41:18,984 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830878.9838722, 'trial_id': 6}
+2025-03-24 15:41:18,996 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830878.9960473, 'trial_id': 6}
+2025-03-24 15:41:18,996 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:41:19,041 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830879.04121, 'trial_id': 5}
+2025-03-24 15:41:19,076 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830879.0756774, 'trial_id': 5}
+2025-03-24 15:41:19,115 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830879.115059, 'trial_id': 5}
+2025-03-24 15:41:19,155 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830879.1558657, 'trial_id': 5}
+2025-03-24 15:41:19,195 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830879.1949759, 'trial_id': 5}
+2025-03-24 15:41:19,239 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830879.2398484, 'trial_id': 5}
+2025-03-24 15:41:46,915 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830906.9150443, 'trial_id': 5}
+2025-03-24 15:41:46,954 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830906.9546905, 'trial_id': 5}
+2025-03-24 15:41:46,986 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830906.986393, 'trial_id': 5}
+2025-03-24 15:41:47,076 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830907.0766897, 'trial_id': 5}
+2025-03-24 15:41:47,077 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:42:12,401 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830932.4009836, 'trial_id': 5}
+2025-03-24 15:42:13,432 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830933.431815, 'trial_id': 5}
+2025-03-24 15:42:13,471 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830933.4713976, 'trial_id': 5}
+2025-03-24 15:42:14,461 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830934.461666, 'trial_id': 5}
+2025-03-24 15:42:15,582 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830935.5825357, 'trial_id': 5}
+2025-03-24 15:42:16,443 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830936.4432197, 'trial_id': 5}
+2025-03-24 15:42:16,453 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830936.4534976, 'trial_id': 5}
+2025-03-24 15:42:16,454 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:42:16,465 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830936.4650686, 'trial_id': 5}
+2025-03-24 15:42:16,532 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830936.5317588, 'trial_id': 5}
+2025-03-24 15:42:16,532 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:42:16,714 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830936.7143373, 'trial_id': 6}
+2025-03-24 15:42:16,817 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830936.8172855, 'trial_id': 6}
+2025-03-24 15:42:16,858 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830936.8587606, 'trial_id': 6}
+2025-03-24 15:42:17,035 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830937.0352945, 'trial_id': 6}
+2025-03-24 15:42:17,035 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:42:17,061 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830937.0615792, 'trial_id': 6}
+2025-03-24 15:42:17,190 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830937.1903496, 'trial_id': 6}
+2025-03-24 15:42:17,190 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:42:17,209 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830937.209599, 'trial_id': 5}
+2025-03-24 15:42:23,234 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1742830943.2342849, 'trial_id': 5}
+2025-03-24 15:42:24,000 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830944.0004966, 'trial_id': 5}
+2025-03-24 15:42:24,036 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830944.0365114, 'trial_id': 5}
+2025-03-24 15:42:24,077 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830944.076903, 'trial_id': 5}
+2025-03-24 15:42:24,110 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830944.1105394, 'trial_id': 5}
+2025-03-24 15:42:24,509 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830944.5088465, 'trial_id': 5}
+2025-03-24 15:42:25,393 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.3931584, 'trial_id': 5}
+2025-03-24 15:42:25,470 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.4701178, 'trial_id': 5}
+2025-03-24 15:42:25,508 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.5086107, 'trial_id': 5}
+2025-03-24 15:42:25,550 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.5501986, 'trial_id': 5}
+2025-03-24 15:42:25,590 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.5903864, 'trial_id': 5}
+2025-03-24 15:42:25,633 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.632957, 'trial_id': 5}
+2025-03-24 15:42:25,814 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.8144782, 'trial_id': 5}
+2025-03-24 15:42:25,852 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.852737, 'trial_id': 5}
+2025-03-24 15:42:25,864 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.864148, 'trial_id': 5}
+2025-03-24 15:42:25,892 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.8924778, 'trial_id': 5}
+2025-03-24 15:42:25,993 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830945.9928262, 'trial_id': 5}
+2025-03-24 15:42:26,032 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830946.0321012, 'trial_id': 5}
+2025-03-24 15:42:26,081 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830946.0806577, 'trial_id': 5}
+2025-03-24 15:42:26,092 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830946.0924485, 'trial_id': 5}
+2025-03-24 15:42:26,105 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830946.1054046, 'trial_id': 5}
+2025-03-24 15:42:26,131 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830946.1314032, 'trial_id': 5}
+2025-03-24 15:42:32,537 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830952.5370543, 'trial_id': 5}
+2025-03-24 15:42:32,538 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:42:34,930 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830954.9300096, 'trial_id': 5}
+2025-03-24 15:42:38,391 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830958.3906946, 'trial_id': 5}
+2025-03-24 15:42:40,287 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830960.2871726, 'trial_id': 5}
+2025-03-24 15:42:46,308 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830966.308152, 'trial_id': 5}
+2025-03-24 15:42:49,838 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830969.8383121, 'trial_id': 5}
+2025-03-24 15:42:49,870 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830969.8698103, 'trial_id': 5}
+2025-03-24 15:42:50,103 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830970.1031692, 'trial_id': 5}
+2025-03-24 15:42:50,297 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830970.2973652, 'trial_id': 5}
+2025-03-24 15:42:50,545 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830970.5448947, 'trial_id': 5}
+2025-03-24 15:42:50,800 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830970.8004658, 'trial_id': 5}
+2025-03-24 15:42:52,173 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830972.1701558, 'trial_id': 5}
+2025-03-24 15:42:52,229 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830972.2296631, 'trial_id': 5}
+2025-03-24 15:42:52,258 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830972.2579086, 'trial_id': 5}
+2025-03-24 15:42:54,530 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830974.5297582, 'trial_id': 5}
+2025-03-24 15:42:54,673 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830974.6733263, 'trial_id': 5}
+2025-03-24 15:42:57,628 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830977.6277568, 'trial_id': 5}
+2025-03-24 15:42:57,628 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:42:58,366 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830978.3664625, 'trial_id': 5}
+2025-03-24 15:42:58,434 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830978.4346895, 'trial_id': 5}
+2025-03-24 15:42:59,090 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830979.0898836, 'trial_id': 5}
+2025-03-24 15:43:02,183 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830982.1835675, 'trial_id': 5}
+2025-03-24 15:43:02,184 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:43:05,631 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830985.631538, 'trial_id': 6}
+2025-03-24 15:43:05,872 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830985.8723106, 'trial_id': 6}
+2025-03-24 15:43:05,872 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:43:05,888 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830985.8878398, 'trial_id': 5}
+2025-03-24 15:43:05,908 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830985.9077785, 'trial_id': 5}
+2025-03-24 15:43:05,939 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830985.9391496, 'trial_id': 5}
+2025-03-24 15:43:06,890 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830986.8902388, 'trial_id': 5}
+2025-03-24 15:43:06,963 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830986.9632735, 'trial_id': 5}
+2025-03-24 15:43:09,394 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830989.3941834, 'trial_id': 5}
+2025-03-24 15:43:10,028 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830990.028009, 'trial_id': 5}
+2025-03-24 15:43:14,092 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830994.0919738, 'trial_id': 5}
+2025-03-24 15:43:14,093 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:43:14,094 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830994.094646, 'trial_id': 5}
+2025-03-24 15:43:14,126 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830994.1260219, 'trial_id': 5}
+2025-03-24 15:43:14,127 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:43:14,135 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830994.1352546, 'trial_id': 5}
+2025-03-24 15:43:14,143 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742830994.1429987, 'trial_id': 5}
+2025-03-24 15:43:14,144 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:43:14,178 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830994.1778686, 'trial_id': 5}
+2025-03-24 15:43:14,224 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830994.2244363, 'trial_id': 5}
+2025-03-24 15:43:14,245 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830994.2457497, 'trial_id': 5}
+2025-03-24 15:43:15,006 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830995.0067809, 'trial_id': 5}
+2025-03-24 15:43:18,905 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830998.905364, 'trial_id': 5}
+2025-03-24 15:43:19,175 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830999.1751256, 'trial_id': 5}
+2025-03-24 15:43:19,191 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742830999.1912234, 'trial_id': 5}
+2025-03-24 15:43:20,467 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831000.4673927, 'trial_id': 5}
+2025-03-24 15:43:20,733 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831000.7328978, 'trial_id': 5}
+2025-03-24 15:43:23,036 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831003.0365117, 'trial_id': 5}
+2025-03-24 15:43:23,417 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831003.417635, 'trial_id': 5}
+2025-03-24 15:43:23,701 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831003.698274, 'trial_id': 5}
+2025-03-24 15:43:23,769 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831003.7697291, 'trial_id': 5}
+2025-03-24 15:43:24,340 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831004.340621, 'trial_id': 5}
+2025-03-24 15:43:25,378 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831005.3779292, 'trial_id': 5}
+2025-03-24 15:43:25,580 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831005.5803778, 'trial_id': 5}
+2025-03-24 15:43:25,893 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831005.8934832, 'trial_id': 5}
+2025-03-24 15:43:25,945 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831005.9454896, 'trial_id': 5}
+2025-03-24 15:43:26,278 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831006.2779129, 'trial_id': 5}
+2025-03-24 15:43:27,020 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831007.0200863, 'trial_id': 5}
+2025-03-24 15:43:27,821 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831007.8217416, 'trial_id': 5}
+2025-03-24 15:43:28,687 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831008.6878338, 'trial_id': 5}
+2025-03-24 15:43:33,365 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831013.3651855, 'trial_id': 5}
+2025-03-24 15:43:33,526 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831013.526682, 'trial_id': 5}
+2025-03-24 15:43:33,599 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831013.5997972, 'trial_id': 5}
+2025-03-24 15:43:34,866 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831014.8664093, 'trial_id': 5}
+2025-03-24 15:43:40,917 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831020.9173136, 'trial_id': 5}
+2025-03-24 15:43:42,881 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831022.881279, 'trial_id': 5}
+2025-03-24 15:43:42,956 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831022.9559634, 'trial_id': 5}
+2025-03-24 15:43:53,699 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831033.6992574, 'trial_id': 5}
+2025-03-24 15:43:54,943 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831034.9433026, 'trial_id': 5}
+2025-03-24 15:44:15,221 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831055.2207673, 'trial_id': 5}
+2025-03-24 15:44:15,257 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831055.2576094, 'trial_id': 5}
+2025-03-24 15:44:26,239 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831066.2395635, 'trial_id': 5}
+2025-03-24 15:44:29,386 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831069.3865426, 'trial_id': 5}
+2025-03-24 15:44:31,050 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831071.049778, 'trial_id': 5}
+2025-03-24 15:44:32,214 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831072.2137105, 'trial_id': 5}
+2025-03-24 15:44:32,242 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831072.2421823, 'trial_id': 5}
+2025-03-24 15:44:32,282 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831072.2824628, 'trial_id': 5}
+2025-03-24 15:44:32,362 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831072.3621812, 'trial_id': 5}
+2025-03-24 15:44:32,692 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831072.6920452, 'trial_id': 5}
+2025-03-24 15:44:32,703 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831072.7031112, 'trial_id': 5}
+2025-03-24 15:44:32,825 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831072.8253615, 'trial_id': 5}
+2025-03-24 15:44:32,904 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831072.9043314, 'trial_id': 5}
+2025-03-24 15:44:33,965 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831073.9650466, 'trial_id': 5}
+2025-03-24 15:44:34,004 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831074.0041952, 'trial_id': 5}
+2025-03-24 15:44:34,065 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831074.0652878, 'trial_id': 5}
+2025-03-24 15:44:45,838 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831085.8381844, 'trial_id': 5}
+2025-03-24 15:44:45,874 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831085.8745852, 'trial_id': 5}
+2025-03-24 15:47:30,069 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831250.0690393, 'trial_id': 5}
+2025-03-24 15:47:30,106 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831250.10617, 'trial_id': 5}
+2025-03-24 15:47:30,145 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831250.1451764, 'trial_id': 5}
+2025-03-24 15:47:39,269 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831259.2696183, 'trial_id': 5}
+2025-03-24 15:47:39,294 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831259.2939146, 'trial_id': 5}
+2025-03-24 15:47:39,446 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831259.4464817, 'trial_id': 5}
+2025-03-24 15:47:39,490 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831259.490489, 'trial_id': 5}
+2025-03-24 15:47:43,356 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831263.3559167, 'trial_id': 5}
+2025-03-24 15:47:43,499 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831263.4994588, 'trial_id': 5}
+2025-03-24 15:48:54,888 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831334.8877413, 'trial_id': 5}
+2025-03-24 15:48:54,925 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831334.9250968, 'trial_id': 5}
+2025-03-24 15:48:54,962 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831334.9625666, 'trial_id': 5}
+2025-03-24 15:48:55,001 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831335.0008607, 'trial_id': 5}
+2025-03-24 15:48:55,037 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831335.037436, 'trial_id': 5}
+2025-03-24 15:48:55,856 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831335.8564482, 'trial_id': 5}
+2025-03-24 15:48:55,857 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:48:55,931 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831335.9311635, 'trial_id': 6}
+2025-03-24 15:48:56,213 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831336.2127943, 'trial_id': 6}
+2025-03-24 15:48:56,213 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:48:56,267 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831336.2669013, 'trial_id': 5}
+2025-03-24 15:48:56,306 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831336.3063102, 'trial_id': 5}
+2025-03-24 15:48:56,518 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831336.5184553, 'trial_id': 5}
+2025-03-24 15:48:56,519 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:48:56,547 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831336.547017, 'trial_id': 5}
+2025-03-24 15:48:56,567 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831336.5672593, 'trial_id': 5}
+2025-03-24 15:48:56,725 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831336.7252219, 'trial_id': 5}
+2025-03-24 15:48:56,725 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:48:56,983 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831336.9828944, 'trial_id': 5}
+2025-03-24 15:48:57,177 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831337.1774247, 'trial_id': 5}
+2025-03-24 15:48:59,853 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831339.8530025, 'trial_id': 5}
+2025-03-24 15:48:59,927 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831339.9274218, 'trial_id': 5}
+2025-03-24 15:49:03,324 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831343.324592, 'trial_id': 5}
+2025-03-24 15:49:03,325 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:03,452 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831343.4519913, 'trial_id': 5}
+2025-03-24 15:49:03,469 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831343.4698527, 'trial_id': 5}
+2025-03-24 15:49:03,497 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831343.4972594, 'trial_id': 5}
+2025-03-24 15:49:05,424 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831345.424573, 'trial_id': 5}
+2025-03-24 15:49:05,425 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:05,451 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831345.4513652, 'trial_id': 6}
+2025-03-24 15:49:05,634 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831345.6339965, 'trial_id': 6}
+2025-03-24 15:49:05,634 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:05,635 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831345.635155, 'trial_id': 6}
+2025-03-24 15:49:05,648 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831345.6482992, 'trial_id': 6}
+2025-03-24 15:49:05,648 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:06,151 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831346.1518283, 'trial_id': 5}
+2025-03-24 15:49:06,161 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831346.161886, 'trial_id': 5}
+2025-03-24 15:49:06,188 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831346.1881282, 'trial_id': 5}
+2025-03-24 15:49:07,138 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831347.1381855, 'trial_id': 5}
+2025-03-24 15:49:07,138 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:07,211 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831347.2112436, 'trial_id': 6}
+2025-03-24 15:49:08,671 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831348.6712322, 'trial_id': 6}
+2025-03-24 15:49:08,672 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:09,611 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831349.6111777, 'trial_id': 5}
+2025-03-24 15:49:10,375 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831350.3751793, 'trial_id': 5}
+2025-03-24 15:49:10,834 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831350.834287, 'trial_id': 5}
+2025-03-24 15:49:11,701 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831351.701574, 'trial_id': 5}
+2025-03-24 15:49:11,702 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:11,714 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831351.7144117, 'trial_id': 6}
+2025-03-24 15:49:11,767 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831351.767447, 'trial_id': 6}
+2025-03-24 15:49:12,105 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831352.105064, 'trial_id': 6}
+2025-03-24 15:49:12,105 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:17,696 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831357.6962702, 'trial_id': 6}
+2025-03-24 15:49:18,568 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831358.5682168, 'trial_id': 6}
+2025-03-24 15:49:18,656 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831358.6566036, 'trial_id': 6}
+2025-03-24 15:49:18,679 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831358.6791053, 'trial_id': 6}
+2025-03-24 15:49:21,921 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831361.9213145, 'trial_id': 6}
+2025-03-24 15:49:21,953 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831361.9536297, 'trial_id': 6}
+2025-03-24 15:49:22,349 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1742831362.3492098, 'trial_id': 6}
+2025-03-24 15:49:22,349 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-03-24 15:49:22,585 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831362.5853176, 'trial_id': 6}
+2025-03-24 15:49:26,778 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831366.7782931, 'trial_id': 6}
+2025-03-24 15:49:26,852 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831366.8519087, 'trial_id': 6}
+2025-03-24 15:49:26,872 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831366.872446, 'trial_id': 6}
+2025-03-24 15:49:26,891 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831366.8916538, 'trial_id': 6}
+2025-03-24 15:49:35,752 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831375.7523558, 'trial_id': 6}
+2025-03-24 15:49:35,765 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831375.7652028, 'trial_id': 6}
+2025-03-24 15:49:35,988 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831375.9883432, 'trial_id': 6}
+2025-03-24 15:49:36,120 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831376.1198769, 'trial_id': 6}
+2025-03-24 15:49:36,506 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831376.50612, 'trial_id': 6}
+2025-03-24 15:49:36,646 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1742831376.646689, 'trial_id': 6}
+2025-03-24 15:49:41,391 [INFO] Program paused
+2025-03-24 15:50:05,350 [INFO] Data file closed
+2025-03-24 15:50:05,351 [INFO] Mainloop exited
+2025-03-24 15:50:05,351 [INFO] Program exited successfully- goodbye!

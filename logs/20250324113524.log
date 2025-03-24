@@ -1,0 +1,42 @@
+2025-03-24 11:35:24,228 [INFO] Program started
+2025-03-24 11:35:24,229 [INFO] Experiment Trials List: {1: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}, 2: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}, 3: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}, 4: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}, 5: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}, 6: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}, 7: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}, 8: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}}
+2025-03-24 11:35:24,229 [INFO] Set experiment constants
+2025-03-24 11:35:24,549 [INFO] Set display screen
+2025-03-24 11:35:24,550 [INFO] Data writer open at file: /home/pi/Documents/masters-Electronics/data/20250324.csv
+2025-03-24 11:35:24,550 [INFO] Set data writer
+2025-03-24 11:35:24,554 [INFO] Set GPIO pins
+2025-03-24 11:35:24,555 [INFO] Set keybinds
+2025-03-24 11:35:24,555 [INFO] Program paused
+2025-03-24 11:35:24,556 [INFO] Set up of obstacle positioning
+2025-03-24 11:35:24,556 [INFO] Setup complete
+2025-03-24 11:35:24,556 [INFO] Waiting for obstacle setup to be completed
+2025-03-24 11:41:06,581 [WARNING] Gate right crossed in trial state None while paused
+2025-03-24 11:41:10,120 [WARNING] Gate right crossed in trial state None while paused
+2025-03-24 11:41:12,560 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:41:14,094 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:41:14,524 [WARNING] Gate left crossed in trial state None while paused
+2025-03-24 11:41:17,964 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:19,818 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:21,607 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:21,884 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:25,540 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:28,920 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:30,433 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:30,957 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:41,429 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:43,331 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:43,656 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:45,046 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:45,516 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:45,673 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:46,219 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:46,318 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:46,464 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:46,582 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:46,796 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:46,894 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:41:46,989 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-24 11:42:16,690 [WARNING] Program exiting before starting
+2025-03-24 11:42:16,690 [INFO] Data file closed
+2025-03-24 11:42:16,691 [INFO] Mainloop exited
+2025-03-24 11:42:16,692 [INFO] Program exited successfully- goodbye!
