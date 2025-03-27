@@ -1,0 +1,22 @@
+2025-03-27 13:59:23,693 [INFO] Program started
+2025-03-27 13:59:23,694 [INFO] Experiment Trials List: {1: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}, 2: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}, 3: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}, 4: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}, 5: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}, 6: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}, 7: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}, 8: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}}
+2025-03-27 13:59:23,694 [INFO] Set experiment constants
+2025-03-27 13:59:24,010 [INFO] Set display screen
+2025-03-27 13:59:24,012 [INFO] Data writer open at file: /home/pi/Documents/masters-Electronics/data/20250327.csv
+2025-03-27 13:59:24,012 [INFO] Set data writer
+2025-03-27 13:59:24,016 [INFO] Set GPIO pins
+2025-03-27 13:59:24,017 [INFO] Set keybinds
+2025-03-27 13:59:24,017 [INFO] Program paused
+2025-03-27 13:59:24,017 [INFO] Set up of obstacle positioning
+2025-03-27 13:59:24,018 [INFO] Setup complete
+2025-03-27 13:59:24,018 [INFO] Waiting for obstacle setup to be completed
+2025-03-27 14:00:40,942 [WARNING] Gate right crossed in trial state None while paused
+2025-03-27 14:00:41,526 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-27 14:00:52,057 [WARNING] Gate left crossed in trial state None while paused
+2025-03-27 14:00:52,086 [WARNING] Gate left crossed in trial state None while paused
+2025-03-27 14:00:52,197 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-27 14:00:52,220 [WARNING] Gate entrance crossed in trial state None while paused
+2025-03-27 14:03:20,888 [WARNING] Program exiting before starting
+2025-03-27 14:03:20,888 [INFO] Data file closed
+2025-03-27 14:03:20,888 [INFO] Mainloop exited
+2025-03-27 14:03:20,889 [INFO] Program exited successfully- goodbye!
