@@ -1,0 +1,17 @@
+2025-04-14 14:16:34,587 [INFO] Program started
+2025-04-14 14:16:34,588 [INFO] Experiment Trials List: {1: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}, 2: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}, 3: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}, 4: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}, 5: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}, 6: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}, 7: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}, 8: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}}
+2025-04-14 14:16:34,588 [INFO] Set experiment constants
+2025-04-14 14:16:34,807 [INFO] Set display screen
+2025-04-14 14:16:34,808 [INFO] Data writer open at file: /home/pi/Documents/masters-Electronics/data/20250414.csv
+2025-04-14 14:16:34,808 [INFO] Set data writer
+2025-04-14 14:16:34,810 [INFO] Set GPIO pins
+2025-04-14 14:16:34,811 [INFO] Set keybinds
+2025-04-14 14:16:34,811 [INFO] Gate all reset
+2025-04-14 14:16:34,811 [INFO] Program paused
+2025-04-14 14:16:34,812 [INFO] Set up of obstacle positioning
+2025-04-14 14:16:34,812 [INFO] Setup complete
+2025-04-14 14:16:34,812 [INFO] Waiting for obstacle setup to be completed
+2025-04-14 14:16:38,819 [WARNING] Program exiting before starting
+2025-04-14 14:16:38,820 [INFO] Data file closed
+2025-04-14 14:16:38,821 [INFO] Mainloop exited
+2025-04-14 14:16:38,823 [INFO] Program exited successfully- goodbye!
