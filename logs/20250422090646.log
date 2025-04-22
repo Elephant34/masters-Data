@@ -1,0 +1,22 @@
+2025-04-22 09:06:47,030 [INFO] Program started
+2025-04-22 09:06:47,031 [INFO] Experiment Trials List: {1: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}, 2: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}, 3: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}, 4: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}, 5: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}, 6: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}, 7: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}, 8: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}}
+2025-04-22 09:06:47,031 [INFO] Set experiment constants
+2025-04-22 09:06:47,357 [INFO] Set display screen
+2025-04-22 09:06:47,359 [INFO] Data writer open at file: /home/pi/Documents/masters-Electronics/data/20250422.csv
+2025-04-22 09:06:47,359 [INFO] Set data writer
+2025-04-22 09:06:47,363 [INFO] Set GPIO pins
+2025-04-22 09:06:47,364 [INFO] Set keybinds
+2025-04-22 09:06:47,364 [INFO] Gate all reset
+2025-04-22 09:06:47,364 [INFO] Program paused
+2025-04-22 09:06:47,365 [INFO] Set up of obstacle positioning
+2025-04-22 09:06:47,365 [INFO] Setup complete
+2025-04-22 09:06:47,365 [INFO] Waiting for obstacle setup to be completed
+2025-04-22 09:06:52,953 [WARNING] Gate right crossed in trial state None while paused
+2025-04-22 09:06:53,587 [WARNING] Gate right crossed in trial state None while paused
+2025-04-22 09:07:24,516 [WARNING] Gate right crossed in trial state None while paused
+2025-04-22 09:07:24,764 [WARNING] Gate right crossed in trial state None while paused
+2025-04-22 09:07:24,887 [WARNING] Gate right crossed in trial state None while paused
+2025-04-22 09:07:50,024 [WARNING] Program exiting before starting
+2025-04-22 09:07:50,026 [INFO] Data file closed
+2025-04-22 09:07:50,026 [INFO] Mainloop exited
+2025-04-22 09:07:50,027 [INFO] Program exited successfully- goodbye!
