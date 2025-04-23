@@ -1,0 +1,266 @@
+2025-04-23 14:48:06,388 [INFO] Program started
+2025-04-23 14:48:06,389 [INFO] Experiment Trials List: {1: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}, 2: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}, 3: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}, 4: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}, 5: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}, 6: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}, 7: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}, 8: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}}
+2025-04-23 14:48:06,389 [INFO] Set experiment constants
+2025-04-23 14:48:06,608 [INFO] Set display screen
+2025-04-23 14:48:06,609 [INFO] Data writer open at file: /home/pi/Documents/masters-Electronics/data/20250423.csv
+2025-04-23 14:48:06,609 [INFO] Set data writer
+2025-04-23 14:48:06,609 [WARNING] Manual Collection mode enabled- GPIO pins disabled
+2025-04-23 14:48:06,609 [INFO] Set keybinds
+2025-04-23 14:48:06,610 [INFO] Gate all reset
+2025-04-23 14:48:06,610 [INFO] Program paused
+2025-04-23 14:48:06,611 [INFO] Set up of obstacle positioning
+2025-04-23 14:48:06,611 [INFO] Setup complete
+2025-04-23 14:48:06,611 [INFO] Waiting for obstacle setup to be completed
+2025-04-23 14:48:29,272 [INFO] Gate all reset
+2025-04-23 14:48:29,273 [INFO] Changed obstacle to None, None
+2025-04-23 14:48:29,274 [INFO] Program resumed
+2025-04-23 14:48:29,275 [INFO] Changed trial to: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 14:50:36,690 [INFO] MANUAL GATE CROSSING
+2025-04-23 14:50:36,691 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745416236.1910338, 'trial_id': 1}
+2025-04-23 14:50:36,691 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745416236.6913702, 'trial_id': 1}
+2025-04-23 14:50:36,691 [INFO] Gate all reset
+2025-04-23 14:50:36,691 [INFO] Changed trial to: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 14:50:39,818 [INFO] MANUAL GATE CROSSING
+2025-04-23 14:50:39,818 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745416239.318723, 'trial_id': 1}
+2025-04-23 14:50:39,819 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745416239.8190207, 'trial_id': 1}
+2025-04-23 14:50:39,819 [INFO] Gate all reset
+2025-04-23 14:50:39,819 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 14:51:20,372 [INFO] MANUAL GATE CROSSING
+2025-04-23 14:51:20,377 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745416279.8763356, 'trial_id': 2}
+2025-04-23 14:51:20,378 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745416280.3779569, 'trial_id': 2}
+2025-04-23 14:51:20,378 [INFO] Gate all reset
+2025-04-23 14:51:20,379 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 15:01:55,799 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:01:55,801 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745416915.3008182, 'trial_id': 2}
+2025-04-23 15:01:55,802 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745416915.8022292, 'trial_id': 2}
+2025-04-23 15:01:55,803 [INFO] Gate all reset
+2025-04-23 15:01:55,803 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 15:02:21,078 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:02:21,079 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745416940.5792904, 'trial_id': 2}
+2025-04-23 15:02:21,080 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745416941.0802789, 'trial_id': 2}
+2025-04-23 15:02:21,081 [INFO] Gate all reset
+2025-04-23 15:02:21,081 [INFO] Changed trial to: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 15:07:06,976 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:07:06,976 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745417226.4765913, 'trial_id': 1}
+2025-04-23 15:07:06,976 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745417226.976891, 'trial_id': 1}
+2025-04-23 15:07:06,977 [INFO] Gate all reset
+2025-04-23 15:07:06,977 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 15:07:42,023 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:07:42,024 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745417261.5240517, 'trial_id': 2}
+2025-04-23 15:07:42,026 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745417262.026797, 'trial_id': 2}
+2025-04-23 15:07:42,027 [INFO] Gate all reset
+2025-04-23 15:07:42,027 [INFO] Changed trial to: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 15:08:49,490 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:08:49,491 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745417328.9911366, 'trial_id': 1}
+2025-04-23 15:08:49,491 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745417329.4914343, 'trial_id': 1}
+2025-04-23 15:08:49,491 [INFO] Gate all reset
+2025-04-23 15:08:49,491 [INFO] Changed trial to: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 15:20:31,194 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:20:31,194 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745418030.6946206, 'trial_id': 1}
+2025-04-23 15:20:31,194 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745418031.1949167, 'trial_id': 1}
+2025-04-23 15:20:31,195 [INFO] Gate all reset
+2025-04-23 15:20:31,195 [INFO] Changed trial to: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 15:20:55,093 [INFO] Gate all reset
+2025-04-23 15:20:55,093 [INFO] Program paused
+2025-04-23 15:21:42,920 [INFO] Gate all reset
+2025-04-23 15:21:42,920 [INFO] Changed obstacle to white, white
+2025-04-23 15:21:42,921 [INFO] Program resumed
+2025-04-23 15:21:42,921 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:26:54,306 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:26:54,307 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745418413.8073308, 'trial_id': 4}
+2025-04-23 15:26:54,308 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745418414.3083503, 'trial_id': 4}
+2025-04-23 15:26:54,308 [INFO] Gate all reset
+2025-04-23 15:26:54,309 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:33:55,701 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:33:55,702 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745418835.2025254, 'trial_id': 4}
+2025-04-23 15:33:55,703 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745418835.7031229, 'trial_id': 4}
+2025-04-23 15:33:55,703 [INFO] Gate all reset
+2025-04-23 15:33:55,703 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:35:37,972 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:35:37,972 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745418937.4727235, 'trial_id': 4}
+2025-04-23 15:35:37,973 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745418937.9730194, 'trial_id': 4}
+2025-04-23 15:35:37,973 [INFO] Gate all reset
+2025-04-23 15:35:37,973 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:40:33,249 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:40:33,250 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419232.7505403, 'trial_id': 4}
+2025-04-23 15:40:33,251 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745419233.2513185, 'trial_id': 4}
+2025-04-23 15:40:33,251 [INFO] Gate all reset
+2025-04-23 15:40:33,253 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:40:36,612 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:40:36,612 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419236.1127837, 'trial_id': 3}
+2025-04-23 15:40:36,613 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745419236.6130714, 'trial_id': 3}
+2025-04-23 15:40:36,613 [INFO] Gate all reset
+2025-04-23 15:40:36,613 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:41:40,388 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:41:40,389 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419299.8892515, 'trial_id': 4}
+2025-04-23 15:41:40,390 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745419300.3900347, 'trial_id': 4}
+2025-04-23 15:41:40,390 [INFO] Gate all reset
+2025-04-23 15:41:40,391 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:44:05,806 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:44:05,806 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419445.3067818, 'trial_id': 4}
+2025-04-23 15:44:05,807 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745419445.8073332, 'trial_id': 4}
+2025-04-23 15:44:05,807 [INFO] Gate all reset
+2025-04-23 15:44:05,808 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:44:31,816 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:44:31,817 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419471.3174756, 'trial_id': 3}
+2025-04-23 15:44:31,818 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745419471.8182395, 'trial_id': 3}
+2025-04-23 15:44:31,818 [INFO] Gate all reset
+2025-04-23 15:44:31,819 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:46:36,467 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:46:36,467 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419595.9675615, 'trial_id': 4}
+2025-04-23 15:46:36,467 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745419596.4678564, 'trial_id': 4}
+2025-04-23 15:46:36,468 [INFO] Gate all reset
+2025-04-23 15:46:36,468 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:46:38,485 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:46:38,494 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419597.9868977, 'trial_id': 4}
+2025-04-23 15:46:38,495 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745419598.495251, 'trial_id': 4}
+2025-04-23 15:46:38,495 [INFO] Gate all reset
+2025-04-23 15:46:38,496 [INFO] Changed trial to: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:47:02,856 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:47:02,857 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419622.357023, 'trial_id': 3}
+2025-04-23 15:47:02,857 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745419622.8575637, 'trial_id': 3}
+2025-04-23 15:47:02,857 [INFO] Gate all reset
+2025-04-23 15:47:02,858 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:47:18,064 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:47:18,066 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419637.5658178, 'trial_id': 4}
+2025-04-23 15:47:18,066 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745419638.0666044, 'trial_id': 4}
+2025-04-23 15:47:18,067 [INFO] Gate all reset
+2025-04-23 15:47:18,067 [INFO] Changed trial to: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}
+2025-04-23 15:48:56,848 [INFO] Gate all reset
+2025-04-23 15:48:56,849 [INFO] Program paused
+2025-04-23 15:49:59,624 [INFO] Gate all reset
+2025-04-23 15:49:59,625 [INFO] Changed obstacle to black, black
+2025-04-23 15:49:59,626 [INFO] Program resumed
+2025-04-23 15:49:59,626 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-04-23 15:50:59,441 [INFO] MANUAL GATE CROSSING
+2025-04-23 15:50:59,442 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745419858.9424143, 'trial_id': 8}
+2025-04-23 15:50:59,443 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745419859.4431837, 'trial_id': 8}
+2025-04-23 15:50:59,443 [INFO] Gate all reset
+2025-04-23 15:50:59,444 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-04-23 16:06:46,535 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:06:46,537 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745420806.0367835, 'trial_id': 7}
+2025-04-23 16:06:46,537 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745420806.5375075, 'trial_id': 7}
+2025-04-23 16:06:46,538 [INFO] Gate all reset
+2025-04-23 16:06:46,538 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-04-23 16:11:18,427 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:11:18,428 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745421077.928149, 'trial_id': 8}
+2025-04-23 16:11:18,428 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745421078.428459, 'trial_id': 8}
+2025-04-23 16:11:18,428 [INFO] Gate all reset
+2025-04-23 16:11:18,428 [INFO] Changed trial to: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}
+2025-04-23 16:16:37,475 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:16:37,477 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745421396.9767587, 'trial_id': 7}
+2025-04-23 16:16:37,477 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745421397.4777102, 'trial_id': 7}
+2025-04-23 16:16:37,478 [INFO] Gate all reset
+2025-04-23 16:16:37,478 [INFO] Changed trial to: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}
+2025-04-23 16:17:58,351 [INFO] Gate all reset
+2025-04-23 16:17:58,352 [INFO] Program paused
+2025-04-23 16:18:41,806 [INFO] Gate all reset
+2025-04-23 16:18:41,807 [INFO] Changed obstacle to black, white
+2025-04-23 16:18:41,807 [INFO] Program resumed
+2025-04-23 16:18:41,807 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:22:11,664 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:22:11,664 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745421731.1645243, 'trial_id': 5}
+2025-04-23 16:22:11,664 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745421731.6648235, 'trial_id': 5}
+2025-04-23 16:22:11,664 [INFO] Gate all reset
+2025-04-23 16:22:11,665 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:23:48,753 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:23:48,755 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745421828.25486, 'trial_id': 6}
+2025-04-23 16:23:48,755 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745421828.755636, 'trial_id': 6}
+2025-04-23 16:23:48,756 [INFO] Gate all reset
+2025-04-23 16:23:48,757 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:24:14,002 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:24:14,002 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745421853.5028267, 'trial_id': 5}
+2025-04-23 16:24:14,003 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745421854.0031273, 'trial_id': 5}
+2025-04-23 16:24:14,003 [INFO] Gate all reset
+2025-04-23 16:24:14,003 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:40:58,275 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:40:58,277 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745422857.776758, 'trial_id': 6}
+2025-04-23 16:40:58,277 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745422858.277456, 'trial_id': 6}
+2025-04-23 16:40:58,277 [INFO] Gate all reset
+2025-04-23 16:40:58,278 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:48:16,829 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:48:16,830 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745423296.330106, 'trial_id': 5}
+2025-04-23 16:48:16,831 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745423296.8308768, 'trial_id': 5}
+2025-04-23 16:48:16,831 [INFO] Gate all reset
+2025-04-23 16:48:16,831 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:49:41,278 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:49:41,279 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745423380.77945, 'trial_id': 6}
+2025-04-23 16:49:41,280 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745423381.2805555, 'trial_id': 6}
+2025-04-23 16:49:41,281 [INFO] Gate all reset
+2025-04-23 16:49:41,281 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:49:43,820 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:49:43,821 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745423383.321378, 'trial_id': 5}
+2025-04-23 16:49:43,821 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745423383.8216653, 'trial_id': 5}
+2025-04-23 16:49:43,821 [INFO] Gate all reset
+2025-04-23 16:49:43,822 [INFO] Changed trial to: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:56:30,287 [INFO] MANUAL GATE CROSSING
+2025-04-23 16:56:30,289 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745423789.7889662, 'trial_id': 5}
+2025-04-23 16:56:30,289 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745423790.2898242, 'trial_id': 5}
+2025-04-23 16:56:30,290 [INFO] Gate all reset
+2025-04-23 16:56:30,290 [INFO] Changed trial to: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}
+2025-04-23 16:58:21,410 [INFO] Gate all reset
+2025-04-23 16:58:21,410 [INFO] Program paused
+2025-04-23 16:59:19,874 [INFO] Gate all reset
+2025-04-23 16:59:19,874 [INFO] Changed obstacle to white, black
+2025-04-23 16:59:19,875 [INFO] Program resumed
+2025-04-23 16:59:19,875 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:01:28,674 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:01:28,675 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424088.1750512, 'trial_id': 2}
+2025-04-23 17:01:28,676 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745424088.675835, 'trial_id': 2}
+2025-04-23 17:01:28,676 [INFO] Gate all reset
+2025-04-23 17:01:28,677 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:01:40,044 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:01:40,045 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424099.545452, 'trial_id': 2}
+2025-04-23 17:01:40,046 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424100.0463648, 'trial_id': 2}
+2025-04-23 17:01:40,047 [INFO] Gate all reset
+2025-04-23 17:01:40,047 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:02:51,923 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:02:51,924 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424171.4242544, 'trial_id': 2}
+2025-04-23 17:02:51,925 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424171.9252121, 'trial_id': 2}
+2025-04-23 17:02:51,925 [INFO] Gate all reset
+2025-04-23 17:02:51,926 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:05:56,158 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:05:56,159 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424355.6594625, 'trial_id': 2}
+2025-04-23 17:05:56,160 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424356.1604128, 'trial_id': 2}
+2025-04-23 17:05:56,160 [INFO] Gate all reset
+2025-04-23 17:05:56,161 [INFO] Changed trial to: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:06:09,506 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:06:09,506 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424369.006561, 'trial_id': 1}
+2025-04-23 17:06:09,506 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424369.5068822, 'trial_id': 1}
+2025-04-23 17:06:09,507 [INFO] Gate all reset
+2025-04-23 17:06:09,507 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:10:18,367 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:10:18,367 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424617.8675032, 'trial_id': 2}
+2025-04-23 17:10:18,367 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424618.3677988, 'trial_id': 2}
+2025-04-23 17:10:18,368 [INFO] Gate all reset
+2025-04-23 17:10:18,368 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:12:42,534 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:12:42,535 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424762.0351405, 'trial_id': 2}
+2025-04-23 17:12:42,535 [INFO] Gate crossed: {'gate_id': 'right', 'epoch_time': 1745424762.5354412, 'trial_id': 2}
+2025-04-23 17:12:42,535 [INFO] Gate all reset
+2025-04-23 17:12:42,535 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:12:52,454 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:12:52,456 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424771.955785, 'trial_id': 2}
+2025-04-23 17:12:52,457 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424772.456844, 'trial_id': 2}
+2025-04-23 17:12:52,457 [INFO] Gate all reset
+2025-04-23 17:12:52,458 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:12:57,061 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:12:57,061 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424776.561797, 'trial_id': 2}
+2025-04-23 17:12:57,062 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424777.0620914, 'trial_id': 2}
+2025-04-23 17:12:57,062 [INFO] Gate all reset
+2025-04-23 17:12:57,062 [INFO] Changed trial to: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:13:30,664 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:13:30,664 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424810.1645763, 'trial_id': 1}
+2025-04-23 17:13:30,664 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424810.664864, 'trial_id': 1}
+2025-04-23 17:13:30,665 [INFO] Gate all reset
+2025-04-23 17:13:30,665 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:14:48,796 [INFO] MANUAL GATE CROSSING
+2025-04-23 17:14:48,797 [INFO] Gate crossed: {'gate_id': 'entrance', 'epoch_time': 1745424888.2970414, 'trial_id': 2}
+2025-04-23 17:14:48,797 [INFO] Gate crossed: {'gate_id': 'left', 'epoch_time': 1745424888.7978122, 'trial_id': 2}
+2025-04-23 17:14:48,798 [INFO] Gate all reset
+2025-04-23 17:14:48,798 [INFO] Changed trial to: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}
+2025-04-23 17:29:14,167 [INFO] Gate all reset
+2025-04-23 17:29:14,168 [INFO] Program paused
+2025-04-23 17:29:16,174 [INFO] Data file closed
+2025-04-23 17:29:16,175 [INFO] Mainloop exited
+2025-04-23 17:29:16,175 [INFO] Program exited successfully- goodbye!

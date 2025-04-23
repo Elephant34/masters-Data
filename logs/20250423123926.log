@@ -1,0 +1,24 @@
+2025-04-23 12:39:26,630 [INFO] Program started
+2025-04-23 12:39:26,631 [INFO] Experiment Trials List: {1: {'trial_id': 1, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'white'}, 2: {'trial_id': 2, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'white'}, 3: {'trial_id': 3, 'left_bg': 'light', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'black'}, 4: {'trial_id': 4, 'left_bg': 'dark', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'black'}, 5: {'trial_id': 5, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'white', 'right_fg': 'black'}, 6: {'trial_id': 6, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'white', 'right_fg': 'black'}, 7: {'trial_id': 7, 'left_bg': 'light', 'right_bg': 'light', 'left_fg': 'black', 'right_fg': 'white'}, 8: {'trial_id': 8, 'left_bg': 'dark', 'right_bg': 'dark', 'left_fg': 'black', 'right_fg': 'white'}}
+2025-04-23 12:39:26,631 [INFO] Set experiment constants
+2025-04-23 12:39:26,937 [INFO] Set display screen
+2025-04-23 12:39:26,939 [INFO] Data writer open at file: /home/pi/Documents/masters-Electronics/data/20250423.csv
+2025-04-23 12:39:26,939 [INFO] Set data writer
+2025-04-23 12:39:26,943 [INFO] Set GPIO pins
+2025-04-23 12:39:26,944 [INFO] Set keybinds
+2025-04-23 12:39:26,944 [INFO] Gate all reset
+2025-04-23 12:39:26,944 [INFO] Program paused
+2025-04-23 12:39:26,945 [INFO] Set up of obstacle positioning
+2025-04-23 12:39:26,945 [INFO] Setup complete
+2025-04-23 12:39:26,945 [INFO] Waiting for obstacle setup to be completed
+2025-04-23 12:39:31,719 [WARNING] Gate right crossed in trial state None while paused
+2025-04-23 12:39:32,087 [WARNING] Gate right crossed in trial state None while paused
+2025-04-23 12:39:46,482 [WARNING] Gate right crossed in trial state None while paused
+2025-04-23 12:39:46,776 [WARNING] Gate right crossed in trial state None while paused
+2025-04-23 12:39:50,178 [WARNING] Gate right crossed in trial state None while paused
+2025-04-23 12:40:18,327 [WARNING] Gate left crossed in trial state None while paused
+2025-04-23 12:40:18,736 [WARNING] Gate left crossed in trial state None while paused
+2025-04-23 12:40:43,317 [WARNING] Program exiting before starting
+2025-04-23 12:40:43,318 [INFO] Data file closed
+2025-04-23 12:40:43,318 [INFO] Mainloop exited
+2025-04-23 12:40:43,318 [INFO] Program exited successfully- goodbye!
